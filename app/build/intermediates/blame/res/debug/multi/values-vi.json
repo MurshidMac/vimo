@@ -1,0 +1,2705 @@
+[
+    {
+        "outputFile": "/home/murshid/Documents/VimoHealth/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 2,
+                        "startOffset": 3028,
+                        "endColumn": 46,
+                        "endOffset": 3072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 113,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 113,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 107,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 107,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endColumn": 122,
+                    "endOffset": 444
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 122,
+                        "endOffset": 395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 449,
+                    "endColumn": 107,
+                    "endOffset": 552
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 400,
+                        "endColumn": 107,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 557,
+                    "endColumn": 108,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 508,
+                        "endColumn": 108,
+                        "endOffset": 612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 83,
+                    "endOffset": 745
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 617,
+                        "endColumn": 83,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 750,
+                    "endColumn": 102,
+                    "endOffset": 848
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 701,
+                        "endColumn": 102,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 853,
+                    "endColumn": 118,
+                    "endOffset": 967
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 118,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 972,
+                    "endColumn": 76,
+                    "endOffset": 1044
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 923,
+                        "endColumn": 76,
+                        "endOffset": 995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1049,
+                    "endColumn": 76,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1000,
+                        "endColumn": 76,
+                        "endOffset": 1072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 83,
+                    "endOffset": 1205
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1077,
+                        "endColumn": 83,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1210,
+                    "endColumn": 103,
+                    "endOffset": 1309
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 103,
+                        "endOffset": 1260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1314,
+                    "endColumn": 108,
+                    "endOffset": 1418
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1265,
+                        "endColumn": 108,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1423,
+                    "endColumn": 100,
+                    "endOffset": 1519
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1374,
+                        "endColumn": 100,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1524,
+                    "endColumn": 104,
+                    "endOffset": 1624
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 104,
+                        "endOffset": 1575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1629,
+                    "endColumn": 113,
+                    "endOffset": 1738
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1580,
+                        "endColumn": 113,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1743,
+                    "endColumn": 104,
+                    "endOffset": 1843
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1694,
+                        "endColumn": 104,
+                        "endOffset": 1794
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1848,
+                    "endColumn": 119,
+                    "endOffset": 1963
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1799,
+                        "endColumn": 119,
+                        "endOffset": 1914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1968,
+                    "endColumn": 98,
+                    "endOffset": 2062
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1919,
+                        "endColumn": 98,
+                        "endOffset": 2013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2067,
+                    "endColumn": 75,
+                    "endOffset": 2138
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 2,
+                        "startOffset": 7304,
+                        "endColumn": 73,
+                        "endOffset": 7375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2143,
+                    "endColumn": 80,
+                    "endOffset": 2219
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 2,
+                        "startOffset": 7459,
+                        "endColumn": 78,
+                        "endOffset": 7535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2224,
+                    "endColumn": 82,
+                    "endOffset": 2302
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 2,
+                        "startOffset": 7378,
+                        "endColumn": 80,
+                        "endOffset": 7456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2307,
+                    "endColumn": 75,
+                    "endOffset": 2378
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 2,
+                        "startOffset": 7538,
+                        "endColumn": 73,
+                        "endOffset": 7609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2383,
+                    "endColumn": 47,
+                    "endOffset": 2426
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 219,
+                        "endColumn": 45,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2431,
+                    "endColumn": 64,
+                    "endOffset": 2491
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 2,
+                        "startOffset": 4171,
+                        "endColumn": 62,
+                        "endOffset": 4231
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2496,
+                    "endColumn": 45,
+                    "endOffset": 2537
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 265,
+                        "endColumn": 43,
+                        "endOffset": 306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2542,
+                    "endColumn": 51,
+                    "endOffset": 2589
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 169,
+                        "endColumn": 49,
+                        "endOffset": 216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2594,
+                    "endColumn": 69,
+                    "endOffset": 2659
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 2,
+                        "startOffset": 8058,
+                        "endColumn": 67,
+                        "endOffset": 8123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2664,
+                    "endColumn": 59,
+                    "endOffset": 2719
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 2,
+                        "startOffset": 8187,
+                        "endColumn": 57,
+                        "endOffset": 8242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2724,
+                    "endColumn": 70,
+                    "endOffset": 2790
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 2,
+                        "startOffset": 8245,
+                        "endColumn": 68,
+                        "endOffset": 8311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2795,
+                    "endColumn": 72,
+                    "endOffset": 2863
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 2,
+                        "startOffset": 8314,
+                        "endColumn": 70,
+                        "endOffset": 8382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2868,
+                    "endColumn": 62,
+                    "endOffset": 2926
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 2,
+                        "startOffset": 8126,
+                        "endColumn": 60,
+                        "endOffset": 8184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2931,
+                    "endColumn": 46,
+                    "endOffset": 2973
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 2,
+                        "startOffset": 6709,
+                        "endColumn": 44,
+                        "endOffset": 6751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2978,
+                    "endColumn": 46,
+                    "endOffset": 3020
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 2,
+                        "startOffset": 6529,
+                        "endColumn": 44,
+                        "endOffset": 6571
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3025,
+                    "endColumn": 46,
+                    "endOffset": 3067
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 2,
+                        "startOffset": 6754,
+                        "endColumn": 44,
+                        "endOffset": 6796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3072,
+                    "endColumn": 46,
+                    "endOffset": 3114
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 2,
+                        "startOffset": 6484,
+                        "endColumn": 44,
+                        "endOffset": 6526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3119,
+                    "endColumn": 46,
+                    "endOffset": 3161
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 2,
+                        "startOffset": 6664,
+                        "endColumn": 44,
+                        "endOffset": 6706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3166,
+                    "endColumn": 46,
+                    "endOffset": 3208
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 2,
+                        "startOffset": 6574,
+                        "endColumn": 44,
+                        "endOffset": 6616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3213,
+                    "endColumn": 46,
+                    "endOffset": 3255
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 2,
+                        "startOffset": 6619,
+                        "endColumn": 44,
+                        "endOffset": 6661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3260,
+                    "endColumn": 44,
+                    "endOffset": 3300
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 2157,
+                        "endColumn": 42,
+                        "endOffset": 2197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3305,
+                    "endColumn": 49,
+                    "endOffset": 3350
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 53,
+                        "endColumn": 47,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3355,
+                    "endColumn": 56,
+                    "endOffset": 3407
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 2,
+                        "startOffset": 4950,
+                        "endColumn": 54,
+                        "endOffset": 5002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3412,
+                    "endColumn": 54,
+                    "endOffset": 3462
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 844,
+                        "endColumn": 52,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3467,
+                    "endColumn": 63,
+                    "endOffset": 3526
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 2,
+                        "startOffset": 3916,
+                        "endColumn": 61,
+                        "endOffset": 3975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3531,
+                    "endColumn": 68,
+                    "endOffset": 3595
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 3374,
+                        "endColumn": 66,
+                        "endOffset": 3438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3600,
+                    "endColumn": 79,
+                    "endOffset": 3675
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 2,
+                        "startOffset": 3296,
+                        "endColumn": 77,
+                        "endOffset": 3371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3680,
+                    "endColumn": 68,
+                    "endOffset": 3744
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 2,
+                        "startOffset": 5055,
+                        "endColumn": 66,
+                        "endOffset": 5119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3749,
+                    "endColumn": 106,
+                    "endOffset": 3851
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 2,
+                        "startOffset": 3441,
+                        "endColumn": 104,
+                        "endOffset": 3543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3856,
+                    "endColumn": 47,
+                    "endOffset": 3899
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 2,
+                        "startOffset": 6864,
+                        "endColumn": 45,
+                        "endOffset": 6907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3904,
+                    "endColumn": 48,
+                    "endOffset": 3948
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 2801,
+                        "endColumn": 46,
+                        "endOffset": 2845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3953,
+                    "endColumn": 51,
+                    "endOffset": 4000
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 2751,
+                        "endColumn": 49,
+                        "endOffset": 2798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4005,
+                    "endColumn": 55,
+                    "endOffset": 4056
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 2,
+                        "startOffset": 2974,
+                        "endColumn": 53,
+                        "endOffset": 3025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4061,
+                    "endColumn": 67,
+                    "endOffset": 4124
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 2,
+                        "startOffset": 2908,
+                        "endColumn": 65,
+                        "endOffset": 2971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4129,
+                    "endColumn": 86,
+                    "endOffset": 4211
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 2,
+                        "startOffset": 6110,
+                        "endColumn": 84,
+                        "endOffset": 6192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4216,
+                    "endColumn": 81,
+                    "endOffset": 4293
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 2,
+                        "startOffset": 6030,
+                        "endColumn": 79,
+                        "endOffset": 6107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4298,
+                    "endColumn": 64,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 2,
+                        "startOffset": 613,
+                        "endColumn": 62,
+                        "endOffset": 673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endColumn": 69,
+                    "endOffset": 4428
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 309,
+                        "endColumn": 67,
+                        "endOffset": 374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4433,
+                    "endColumn": 78,
+                    "endOffset": 4507
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 462,
+                        "endColumn": 76,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4512,
+                    "endColumn": 82,
+                    "endOffset": 4590
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 2,
+                        "startOffset": 6330,
+                        "endColumn": 80,
+                        "endOffset": 6408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4595,
+                    "endColumn": 86,
+                    "endOffset": 4677
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 377,
+                        "endColumn": 84,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4682,
+                    "endColumn": 75,
+                    "endOffset": 4753
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 2,
+                        "startOffset": 539,
+                        "endColumn": 73,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4758,
+                    "endColumn": 63,
+                    "endOffset": 4817
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 2,
+                        "startOffset": 7612,
+                        "endColumn": 61,
+                        "endOffset": 7671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4822,
+                    "endColumn": 56,
+                    "endOffset": 4874
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 2,
+                        "startOffset": 4234,
+                        "endColumn": 54,
+                        "endOffset": 4286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4879,
+                    "endColumn": 51,
+                    "endOffset": 4926
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 2,
+                        "startOffset": 5005,
+                        "endColumn": 49,
+                        "endOffset": 5052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4931,
+                    "endColumn": 67,
+                    "endOffset": 4994
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 2,
+                        "startOffset": 4105,
+                        "endColumn": 65,
+                        "endOffset": 4168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4999,
+                    "endColumn": 61,
+                    "endOffset": 5056
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 2,
+                        "startOffset": 4045,
+                        "endColumn": 59,
+                        "endOffset": 4102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5061,
+                    "endColumn": 37,
+                    "endOffset": 5094
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 2,
+                        "startOffset": 4804,
+                        "endColumn": 35,
+                        "endOffset": 4837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5099,
+                    "endColumn": 125,
+                    "endOffset": 5220
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 1142,
+                        "endColumn": 123,
+                        "endOffset": 1263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5225,
+                    "endColumn": 118,
+                    "endOffset": 5339
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 2,
+                        "startOffset": 7941,
+                        "endColumn": 116,
+                        "endOffset": 8055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5344,
+                    "endColumn": 71,
+                    "endOffset": 5411
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 2,
+                        "startOffset": 3546,
+                        "endColumn": 69,
+                        "endOffset": 3613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5416,
+                    "endColumn": 52,
+                    "endOffset": 5464
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 2,
+                        "startOffset": 3865,
+                        "endColumn": 50,
+                        "endOffset": 3913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5469,
+                    "endColumn": 55,
+                    "endOffset": 5520
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 2,
+                        "startOffset": 5257,
+                        "endColumn": 53,
+                        "endOffset": 5308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5525,
+                    "endColumn": 66,
+                    "endOffset": 5587
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 2,
+                        "startOffset": 3697,
+                        "endColumn": 64,
+                        "endOffset": 3759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5592,
+                    "endColumn": 70,
+                    "endOffset": 5658
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 2,
+                        "startOffset": 3762,
+                        "endColumn": 68,
+                        "endOffset": 3828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5663,
+                    "endColumn": 82,
+                    "endOffset": 5741
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 2,
+                        "startOffset": 3616,
+                        "endColumn": 80,
+                        "endOffset": 3694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5746,
+                    "endColumn": 37,
+                    "endOffset": 5779
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 2,
+                        "startOffset": 4877,
+                        "endColumn": 35,
+                        "endOffset": 4910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5784,
+                    "endColumn": 89,
+                    "endOffset": 5869
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 2,
+                        "startOffset": 6982,
+                        "endColumn": 87,
+                        "endOffset": 7067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5874,
+                    "endColumn": 79,
+                    "endOffset": 5949
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 2,
+                        "startOffset": 7226,
+                        "endColumn": 77,
+                        "endOffset": 7301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5954,
+                    "endColumn": 73,
+                    "endOffset": 6023
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 2,
+                        "startOffset": 6910,
+                        "endColumn": 71,
+                        "endOffset": 6979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6028,
+                    "endColumn": 92,
+                    "endOffset": 6116
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 2,
+                        "startOffset": 7135,
+                        "endColumn": 90,
+                        "endOffset": 7223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6121,
+                    "endColumn": 66,
+                    "endOffset": 6183
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 2,
+                        "startOffset": 7070,
+                        "endColumn": 64,
+                        "endOffset": 7132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 6188,
+                    "endColumn": 36,
+                    "endOffset": 6220
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 2,
+                        "startOffset": 4769,
+                        "endColumn": 34,
+                        "endOffset": 4801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6225,
+                    "endColumn": 106,
+                    "endOffset": 6327
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 2,
+                        "startOffset": 4494,
+                        "endColumn": 104,
+                        "endOffset": 4596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6332,
+                    "endColumn": 95,
+                    "endOffset": 6423
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 2,
+                        "startOffset": 7847,
+                        "endColumn": 93,
+                        "endOffset": 7938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6428,
+                    "endColumn": 58,
+                    "endOffset": 6482
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 2,
+                        "startOffset": 5122,
+                        "endColumn": 56,
+                        "endOffset": 5176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6487,
+                    "endColumn": 72,
+                    "endOffset": 6555
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 2,
+                        "startOffset": 5380,
+                        "endColumn": 70,
+                        "endOffset": 5448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6560,
+                    "endColumn": 35,
+                    "endOffset": 6591
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 2,
+                        "startOffset": 3831,
+                        "endColumn": 33,
+                        "endOffset": 3862
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6596,
+                    "endColumn": 47,
+                    "endOffset": 6639
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 2259,
+                        "endColumn": 45,
+                        "endOffset": 2302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6644,
+                    "endColumn": 54,
+                    "endOffset": 6694
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 2698,
+                        "endColumn": 52,
+                        "endOffset": 2748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6699,
+                    "endColumn": 38,
+                    "endOffset": 6733
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 2,
+                        "startOffset": 4840,
+                        "endColumn": 36,
+                        "endOffset": 4874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6738,
+                    "endColumn": 57,
+                    "endOffset": 6791
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 2,
+                        "startOffset": 4438,
+                        "endColumn": 55,
+                        "endOffset": 4491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6796,
+                    "endColumn": 66,
+                    "endOffset": 6858
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 2,
+                        "startOffset": 6799,
+                        "endColumn": 64,
+                        "endOffset": 6861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6863,
+                    "endColumn": 71,
+                    "endOffset": 6930
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 2305,
+                        "endColumn": 69,
+                        "endOffset": 2372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6935,
+                    "endColumn": 49,
+                    "endOffset": 6980
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1425,
+                        "endColumn": 47,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6985,
+                    "endColumn": 57,
+                    "endOffset": 7038
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1473,
+                        "endColumn": 55,
+                        "endOffset": 1526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7043,
+                    "endColumn": 79,
+                    "endOffset": 7118
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 2375,
+                        "endColumn": 77,
+                        "endOffset": 2450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7123,
+                    "endColumn": 65,
+                    "endOffset": 7184
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1361,
+                        "endColumn": 63,
+                        "endOffset": 1422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7189,
+                    "endColumn": 63,
+                    "endOffset": 7248
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1753,
+                        "endColumn": 61,
+                        "endOffset": 1812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7253,
+                    "endColumn": 71,
+                    "endOffset": 7320
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 2,
+                        "startOffset": 5698,
+                        "endColumn": 69,
+                        "endOffset": 5765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7325,
+                    "endColumn": 81,
+                    "endOffset": 7402
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 2,
+                        "startOffset": 5854,
+                        "endColumn": 79,
+                        "endOffset": 5931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 7407,
+                    "endColumn": 97,
+                    "endOffset": 7500
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 2,
+                        "startOffset": 5934,
+                        "endColumn": 95,
+                        "endOffset": 6027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 7505,
+                    "endColumn": 87,
+                    "endOffset": 7588
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 2,
+                        "startOffset": 5768,
+                        "endColumn": 85,
+                        "endOffset": 5851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 7593,
+                    "endColumn": 78,
+                    "endOffset": 7667
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 2,
+                        "startOffset": 5621,
+                        "endColumn": 76,
+                        "endOffset": 5695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 7672,
+                    "endColumn": 150,
+                    "endOffset": 7818
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1604,
+                        "endColumn": 148,
+                        "endOffset": 1750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 7823,
+                    "endColumn": 76,
+                    "endOffset": 7895
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1529,
+                        "endColumn": 74,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 7900,
+                    "endColumn": 73,
+                    "endOffset": 7969
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 2453,
+                        "endColumn": 71,
+                        "endOffset": 2522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 7974,
+                    "endColumn": 106,
+                    "endOffset": 8076
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 2593,
+                        "endColumn": 104,
+                        "endOffset": 2695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 8081,
+                    "endColumn": 94,
+                    "endOffset": 8171
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 2,
+                        "startOffset": 7754,
+                        "endColumn": 92,
+                        "endOffset": 7844
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 8176,
+                    "endColumn": 70,
+                    "endOffset": 8242
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1886,
+                        "endColumn": 68,
+                        "endOffset": 1952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 8247,
+                    "endColumn": 67,
+                    "endOffset": 8310
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 2014,
+                        "endColumn": 65,
+                        "endOffset": 2077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 8315,
+                    "endColumn": 78,
+                    "endOffset": 8389
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 2080,
+                        "endColumn": 76,
+                        "endOffset": 2154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8394,
+                    "endColumn": 72,
+                    "endOffset": 8462
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1815,
+                        "endColumn": 70,
+                        "endOffset": 1883
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 8467,
+                    "endColumn": 60,
+                    "endOffset": 8523
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1955,
+                        "endColumn": 58,
+                        "endOffset": 2011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 8528,
+                    "endColumn": 69,
+                    "endOffset": 8593
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 2525,
+                        "endColumn": 67,
+                        "endOffset": 2590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 8598,
+                    "endColumn": 101,
+                    "endOffset": 8695
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 2,
+                        "startOffset": 4599,
+                        "endColumn": 99,
+                        "endOffset": 4696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 8700,
+                    "endColumn": 71,
+                    "endOffset": 8767
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 2,
+                        "startOffset": 4699,
+                        "endColumn": 69,
+                        "endOffset": 4766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 8772,
+                    "endColumn": 38,
+                    "endOffset": 8806
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 2,
+                        "startOffset": 4913,
+                        "endColumn": 36,
+                        "endOffset": 4947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 8811,
+                    "endColumn": 70,
+                    "endOffset": 8877
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 2,
+                        "startOffset": 5311,
+                        "endColumn": 68,
+                        "endOffset": 5377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 8882,
+                    "endColumn": 100,
+                    "endOffset": 8978
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2018,
+                        "endColumn": 100,
+                        "endOffset": 2114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 8983,
+                    "endColumn": 41,
+                    "endOffset": 9020
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 2,
+                        "startOffset": 3075,
+                        "endColumn": 39,
+                        "endOffset": 3112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 9025,
+                    "endColumn": 64,
+                    "endOffset": 9085
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 2,
+                        "startOffset": 3115,
+                        "endColumn": 62,
+                        "endOffset": 3175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 9090,
+                    "endColumn": 119,
+                    "endOffset": 9205
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 2,
+                        "startOffset": 3178,
+                        "endColumn": 117,
+                        "endOffset": 3293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 9210,
+                    "endColumn": 74,
+                    "endOffset": 9280
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 2,
+                        "startOffset": 6411,
+                        "endColumn": 72,
+                        "endOffset": 6481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 9285,
+                    "endColumn": 76,
+                    "endOffset": 9357
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 2,
+                        "startOffset": 4289,
+                        "endColumn": 74,
+                        "endOffset": 4361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 9362,
+                    "endColumn": 79,
+                    "endOffset": 9437
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 938,
+                        "endColumn": 77,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 9442,
+                    "endColumn": 76,
+                    "endOffset": 9514
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 769,
+                        "endColumn": 74,
+                        "endOffset": 841
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 9519,
+                    "endColumn": 67,
+                    "endOffset": 9582
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 2,
+                        "startOffset": 6195,
+                        "endColumn": 65,
+                        "endOffset": 6258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 9587,
+                    "endColumn": 69,
+                    "endOffset": 9652
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 101,
+                        "endColumn": 67,
+                        "endOffset": 166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 9657,
+                    "endColumn": 55,
+                    "endOffset": 9708
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 676,
+                        "endColumn": 53,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 9713,
+                    "endColumn": 68,
+                    "endOffset": 9777
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 2,
+                        "startOffset": 3978,
+                        "endColumn": 66,
+                        "endOffset": 4042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 9782,
+                    "endColumn": 84,
+                    "endOffset": 9862
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 1059,
+                        "endColumn": 82,
+                        "endOffset": 1139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 9867,
+                    "endColumn": 75,
+                    "endOffset": 9938
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 2,
+                        "startOffset": 4364,
+                        "endColumn": 73,
+                        "endOffset": 4435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 9943,
+                    "endColumn": 70,
+                    "endOffset": 10009
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 2,
+                        "startOffset": 6261,
+                        "endColumn": 68,
+                        "endOffset": 6327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 10014,
+                    "endColumn": 59,
+                    "endOffset": 10069
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1303,
+                        "endColumn": 57,
+                        "endOffset": 1358
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 10074,
+                    "endColumn": 79,
+                    "endOffset": 10149
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 2,
+                        "startOffset": 5179,
+                        "endColumn": 77,
+                        "endOffset": 5254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 10154,
+                    "endColumn": 61,
+                    "endOffset": 10211
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 2848,
+                        "endColumn": 59,
+                        "endOffset": 2905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 10216,
+                    "endColumn": 81,
+                    "endOffset": 10293
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 2,
+                        "startOffset": 7674,
+                        "endColumn": 79,
+                        "endOffset": 7751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 10298,
+                    "endColumn": 54,
+                    "endOffset": 10348
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 2,
+                        "startOffset": 5568,
+                        "endColumn": 52,
+                        "endOffset": 5618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 10353,
+                    "endColumn": 63,
+                    "endOffset": 10412
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 2,
+                        "startOffset": 5506,
+                        "endColumn": 61,
+                        "endOffset": 5565
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 10417,
+                    "endColumn": 56,
+                    "endOffset": 10469
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 2,
+                        "startOffset": 5451,
+                        "endColumn": 54,
+                        "endOffset": 5503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 10474,
+                    "endColumn": 60,
+                    "endOffset": 10530
+                },
+                "from": {
+                    "file": "/home/murshid/Documents/VimoHealth/app/src/main/res/values-vi/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 2200,
+                        "endColumn": 58,
+                        "endOffset": 2256
+                    }
+                }
+            }
+        ]
+    }
+]

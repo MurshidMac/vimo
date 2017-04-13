@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent" android:layout_height="wrap_content">
 
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="16dp" >
+        android:layout_margin="16dp"
+        tools:ignore="UselessParent">
 
         <TextView
             android:id="@+id/alarm_item_time"
@@ -14,17 +16,19 @@
             android:layout_height="wrap_content"
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
-            android:text="00:00"
-            android:textAppearance="?android:attr/textAppearanceLarge" />
+            android:text="@string/_00_00"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            tools:ignore="RtlHardcoded" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="(Smart)"
+            android:text="@string/smart"
             android:layout_toRightOf="@+id/alarm_item_time"
             android:id="@+id/alarm_smart_wakeup"
             android:visibility="invisible"
-            android:layout_alignBaseline="@+id/alarm_item_time" />
+            android:layout_alignBaseline="@+id/alarm_item_time"
+            tools:ignore="RtlHardcoded" />
 
         <TextView
             android:id="@+id/alarm_item_monday"
@@ -34,7 +38,8 @@
             android:layout_below="@+id/alarm_item_time"
             android:layout_marginLeft="4dp"
             android:text="@string/alarm_mon_short"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:ignore="RtlHardcoded" />
 
         <TextView
             android:id="@+id/alarm_item_tuesday"
@@ -44,7 +49,8 @@
             android:layout_below="@+id/alarm_item_time"
             android:layout_marginLeft="4dp"
             android:text="@string/alarm_tue_short"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:ignore="RtlHardcoded" />
 
         <TextView
             android:id="@+id/alarm_item_wednesday"
@@ -54,7 +60,8 @@
             android:layout_below="@+id/alarm_item_time"
             android:layout_marginLeft="4dp"
             android:text="@string/alarm_wed_short"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:ignore="RtlHardcoded" />
 
         <TextView
             android:id="@+id/alarm_item_thursday"
@@ -64,7 +71,8 @@
             android:layout_below="@+id/alarm_item_time"
             android:layout_marginLeft="4dp"
             android:text="@string/alarm_thu_short"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:ignore="RtlHardcoded" />
 
         <TextView
             android:id="@+id/alarm_item_friday"
@@ -74,7 +82,8 @@
             android:layout_below="@+id/alarm_item_time"
             android:layout_marginLeft="4dp"
             android:text="@string/alarm_fri_short"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:ignore="RtlHardcoded" />
 
         <TextView
             android:id="@+id/alarm_item_saturday"
@@ -84,7 +93,8 @@
             android:layout_below="@+id/alarm_item_time"
             android:layout_marginLeft="4dp"
             android:text="@string/alarm_sat_short"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:ignore="RtlHardcoded" />
 
         <TextView
             android:id="@+id/alarm_item_sunday"
@@ -94,14 +104,16 @@
             android:layout_below="@+id/alarm_item_time"
             android:layout_marginLeft="4dp"
             android:text="@string/alarm_sun_short"
-            android:textAppearance="?android:attr/textAppearanceSmall" />
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:ignore="RtlHardcoded" />
 
         <Switch
             android:id="@+id/alarm_item_toggle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentRight="true"
-            android:layout_alignParentTop="true" />
+            android:layout_alignParentTop="true"
+            tools:ignore="RtlHardcoded" />
 
     </RelativeLayout>
 

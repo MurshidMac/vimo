@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-classic/1.1.1-4/f20b1158fcca0aef6043886ef8605556a09058ca/logback-android-classic-1.1.1-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f20b1158fcca0aef6043886ef8605556a09058ca">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/logback-android-classic-1.1.1-4_e73a37bffbdb4e3fab8c300e2ac4396bc138bdbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v3.0.1/369f9aa48a629b4e92557b37326f42dc3de796e4/MPAndroidChart-v3.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="369f9aa48a629b4e92557b37326f42dc3de796e4">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v3.0.1_7bc73c9240c7c1c5449fa2897f7e1ede30708eae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-core/1.1.1-4/cd422166cca6c3d930309a6685ea3f40c91942ce/logback-android-core-1.1.1-4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd422166cca6c3d930309a6685ea3f40c91942ce">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/logback-android-core-1.1.1-4_2d561da85b15e2222c1bf428718d177f0639d4b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.7/2b8019b6249bb05d81d3a3094e468753e2b21311/slf4j-api-1.7.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b8019b6249bb05d81d3a3094e468753e2b21311">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.7_d08f3c92d2d7bf4bccb1a7aa3df7d8bbd57d63fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.23/cd143cd8c02a9f838e3cb75a6dfe133750437f6d/freemarker-2.3.23.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd143cd8c02a9f838e3cb75a6dfe133750437f6d">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/freemarker-2.3.23_4b860128d60452c1430575f6c0cdd28818584471.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.android/build-cache/65d7686ddd162215dda48b91397df0a87ca37147/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e4f3123ea1b1ac1e873a790b1229e8e64ff5d1">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/classes_62d9d9d4f477a31991bdde0fb4dd4d5a8867ddbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.android/build-cache/bbc105c5d2dc16798bea8f1257a7430671ca9818/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/classes_0fe3c1fd1fc71acf464b9cf4e48953bbfd49ea5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.gradle/caches/modules-2/files-2.1/net.e175.klaus/solarpositioning/0.0.9/2fe9f3adc8027ec037f6949aadbb51a3aca0458a/solarpositioning-0.0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2fe9f3adc8027ec037f6949aadbb51a3aca0458a">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/solarpositioning-0.0.9_ae83988b4a39b5702dd85d5a309754a09f43a07b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.gradle/caches/modules-2/files-2.1/com.github.tony19/apktool-lib/1.4.4-3/1d0125bf578cb30dd192496db56c2d937495248a/apktool-lib-1.4.4-3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d0125bf578cb30dd192496db56c2d937495248a">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/apktool-lib-1.4.4-3_fb88fc8a2ed628b1f302908ba24484ce77aee9da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.android/build-cache/469b4e6c644f72cbeb942d9371cdcb552042f29f/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_2bfd7ee5aefa8974a7b1cb3cb57feaa332faedee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_e52042ca8679450bd794c28862650218b50a6f06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.gradle/caches/modules-2/files-2.1/com.github.freeyourgadget.greendao/greendao-generator/1998d7cd2d21f662c6044f6ccf3b3a251bbad341/ad3c0e922ae72bab47dbfa4b6ec2a4487ad179ac/greendao-generator-1998d7cd2d21f662c6044f6ccf3b3a251bbad341.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad3c0e922ae72bab47dbfa4b6ec2a4487ad179ac">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/greendao-generator-1998d7cd2d21f662c6044f6ccf3b3a251bbad341_0c8f0eea4ba68cbadf8b19da1ae4b59ec49c1a82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.4/5fe28b9518e58819180a43a850fbc0dd24b7c050/commons-lang3-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/commons-lang3-3.4_3a036e8f32a35edd608abcd268730cbe960f430a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.gradle/caches/modules-2/files-2.1/com.github.freeyourgadget.greendao/greendao/1998d7cd2d21f662c6044f6ccf3b3a251bbad341/eb91879a44de7bf880390a7364d174926f1d34b3/greendao-1998d7cd2d21f662c6044f6ccf3b3a251bbad341.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb91879a44de7bf880390a7364d174926f1d34b3">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/greendao-1998d7cd2d21f662c6044f6ccf3b3a251bbad341_d84f28841e69b1e65f8afe3d8d028c8e36e0bd91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.android/build-cache/d78ef71886bf2d4a77084d9742b9e046fc660b7f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="99fd3d6d721379e2b159310cfd7854c59065344a">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/classes_56ddb7a44247723b819d2c916252fd8dc9e46c35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/classes_d090adc798f17d65fb1f21a56608980a886dbd2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/classes_12272907aca3d232a978c6ad868aa10fa4c92893.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.android/build-cache/fb184795ca67fe1b0687739a982bad4a94d6da6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/classes_241419234f8371bf41e10eaad17b8c40a1cf1209.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.gradle/caches/modules-2/files-2.1/com.github.pfichtner/durationformatter/0.1.1/cf6e09475eb0af74b2fa828c961d12992914404a/durationformatter-0.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf6e09475eb0af74b2fa828c961d12992914404a">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/durationformatter-0.1.1_162c425be714a0ed8fe262ef77cba7437812ee08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.android/build-cache/633b179c879b2a25c054e02e29f143c1a1f4adf5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/classes_133b94c06d9f060eb7c1b4a803de4c1ca7063743.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.android/build-cache/469b4e6c644f72cbeb942d9371cdcb552042f29f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/classes_2225fbcf2a2e9f82f49d86c4e4d840782aee7434.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/murshid/.gradle/caches/modules-2/files-2.1/com.github.freeyourgadget.greendao/greendao-example-generator/1998d7cd2d21f662c6044f6ccf3b3a251bbad341/9128d79916110068990449626f8e7b1893561d77/greendao-example-generator-1998d7cd2d21f662c6044f6ccf3b3a251bbad341.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9128d79916110068990449626f8e7b1893561d77">
+        <dex dex="/home/murshid/Documents/VimoHealth/app/build/intermediates/pre-dexed/debug/greendao-example-generator-1998d7cd2d21f662c6044f6ccf3b3a251bbad341_5a2750418425a132e37c62d8f49b0a7034fe10f7.jar" />
+    </item>
+
+</items>

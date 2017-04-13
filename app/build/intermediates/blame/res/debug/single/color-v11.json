@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

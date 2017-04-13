@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout-land/fragment_sleepchart.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout-land/fragment_sleepchart.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout-land/fragment_weeksteps_chart.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout-land/fragment_weeksteps_chart.xml"
+    }
+]

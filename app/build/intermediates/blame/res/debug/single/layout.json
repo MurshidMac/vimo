@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/fragment_live_activity.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/fragment_live_activity.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_weather_notification.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_weather_notification.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/sleep_alarm_widget.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/sleep_alarm_widget.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/fragment_dummy.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/fragment_dummy.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_debug.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_debug.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/item_with_details_small.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/item_with_details_small.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_pebble_pairing.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_pebble_pairing.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/drag_item_recycler_view.xml",
+        "source": "/home/murshid/.android/build-cache/65d7686ddd162215dda48b91397df0a87ca37147/output/res/layout/drag_item_recycler_view.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_discovery.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_discovery.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_charts.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_charts.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_appmanager.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_appmanager.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/fragment_charts.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/fragment_charts.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/fragment_sleepchart.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/fragment_sleepchart.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_db_management.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_db_management.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_external_pebble_js.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_external_pebble_js.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_configure_alarms.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_configure_alarms.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/fragment_weeksteps_chart.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/fragment_weeksteps_chart.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/item_with_details.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/item_with_details.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_charts_durationdialog.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_charts_durationdialog.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/device_item.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/device_item.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_appinstaller.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_appinstaller.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_onboarding.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_mi_band_pairing.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_mi_band_pairing.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/alarm_item.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/alarm_item.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_vibration.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_vibration.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_appblacklist.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_appblacklist.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_android_pairing.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_android_pairing.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_controlcenter.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_controlcenter.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/item_with_checkbox.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/item_with_checkbox.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_alarm_details.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_alarm_details.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/item_with_details_horizontal.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/item_with_details_horizontal.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_fragmentappmanager.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/activity_fragmentappmanager.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/res/layout/design_navigation_item_subheader.xml"
+    }
+]

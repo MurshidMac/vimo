@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary_light" type="color">#ff5000</color>
-    <color name="primarydark_light" type="color">#f0f03000</color>
+    <color name="primary_light" type="color">#06D479</color>
+    <color name="primarydark_light" type="color">#06D479</color>
 
     <color name="primary_dark" type="color">#f03000</color>
     <color name="primarydark_dark" type="color">#f0f03000</color>

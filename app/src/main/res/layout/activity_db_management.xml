@@ -2,12 +2,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="nodomain.freeyourgadget.gadgetbridge.activities.ControlCenter">
+    tools:context="nodomain.freeyourgadget.vimo.activities.ControlCenter">
 
     <ScrollView
         android:id="@+id/scrollView2"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -31,15 +32,17 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
 
-                    android:singleLine="false"
-                    android:text="Export DB" />
+                    android:text="@string/export_db"
+                    tools:ignore="ButtonStyle"
+                    android:maxLines="1" />
 
                 <Button
                     android:id="@+id/importDBButton"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:text="Import DB" />
+                    android:text="@string/import_db"
+                    tools:ignore="ButtonStyle" />
             </LinearLayout>
 
             <TextView
@@ -85,7 +88,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="fill_horizontal"
                     android:layout_weight="1"
-                    android:text="Import old activity data" />
+                    android:text="@string/import_old_activity_data"
+                    tools:ignore="ButtonStyle" />
 
                 <Button
                     android:id="@+id/deleteOldActivityDB"
@@ -93,7 +97,8 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="fill_horizontal"
                     android:layout_weight="1"
-                    android:text="Delete old DB" />
+                    android:text="@string/delete_old_db"
+                    tools:ignore="ButtonStyle" />
             </LinearLayout>
 
             <TextView
@@ -101,14 +106,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="40dp"
-                android:text="Warning! By pushing this button you will wipe your database and start from scratch."
+                android:text="@string/warning_by_pushing_this_button_you_will_wipe_your_database_and_start_from_scratch"
                 android:textAppearance="?android:attr/textAppearanceSmall" />
 
             <Button
                 android:id="@+id/emptyDBButton"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Empty DB" />
+                android:text="@string/empty_db" />
 
 
         </LinearLayout>

@@ -4,13 +4,14 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="nodomain.freeyourgadget.gadgetbridge.activities.DiscoveryActivity">
+    tools:context="nodomain.freeyourgadget.vimo.activities.DiscoveryActivity">
 
     <LinearLayout
         android:orientation="vertical"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:weightSum="1">
+        android:weightSum="1"
+        tools:ignore="UselessParent">
 
         <Button
             android:layout_width="wrap_content"

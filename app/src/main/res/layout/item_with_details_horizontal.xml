@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="?android:attr/activatedBackgroundIndicator"
-    android:paddingStart="1dp">
+    android:paddingStart="1dp"
+    tools:ignore="RtlSymmetry">
 
     <ImageView
         android:id="@+id/item_image"
@@ -28,8 +30,8 @@
             android:scrollHorizontally="false"
             android:textColor="@color/secondarytext"
             android:textSize="12sp"
-            android:text="Item Name"
-            android:singleLine="true" />
+            android:text="@string/item_name"
+            android:maxLines="1" />
 
         <TextView
             android:id="@+id/item_details"
@@ -38,7 +40,7 @@
             android:textColor="@color/secondarytext"
             android:textSize="12sp"
             android:text="Item Description"
-            />
+            tools:ignore="HardcodedText" />
     </LinearLayout>
 
 </RelativeLayout>

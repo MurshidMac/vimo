@@ -8,7 +8,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
     android:animateLayoutChanges="true"
-    tools:context="nodomain.freeyourgadget.gadgetbridge.activities.FwAppInstallerActivity">
+    tools:context="nodomain.freeyourgadget.vimo.activities.FwAppInstallerActivity">
 
     <ListView
         android:id="@+id/itemListView"
@@ -31,11 +31,12 @@
         android:id="@+id/fwappStatusIcon"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:contentDescription="Status Icon"
+        android:contentDescription="@string/status_icon"
         android:layout_centerHorizontal="true"
         android:layout_alignParentTop="false"
         android:layout_alignParentLeft="false"
-        android:layout_below="@+id/infoTextView" />
+        android:layout_below="@+id/infoTextView"
+        tools:ignore="RtlHardcoded" />
 
     <ProgressBar
         android:id="@+id/installProgressBar"
@@ -60,7 +61,8 @@
         android:layout_alignParentLeft="false"
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/installProgressBar"
-        android:layout_marginTop="10dp" />
+        android:layout_marginTop="10dp"
+        tools:ignore="RtlHardcoded" />
 
     <ListView
         android:id="@+id/detailsListView"
