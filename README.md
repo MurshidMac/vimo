@@ -1,4 +1,4 @@
-Vimo- Health (Andrpid App)
+Vimo- Strive Health (Android App)
 ==========================
 
 Vimo-Health is an Android application which will allows user to use any smart Iot (DIY- Build by team-Vimo) or Vendor based Activity trackers like (Mi Band) to play a innovative and enjoyable health game that motivates user to build his/ her daily health activity continously by building charactor based on their game.
@@ -54,7 +54,7 @@ Below Libraries are used for BT and Documentation
   tap it quickly a few times in a row to confirm the pairing with the band.
 
 1. Configure other notifications as desired
-2. Go back to the "Gadgetbridge" activity
+2. Go back to the "VIMO-Strive" activity
 3. Tap the Mi Band item to connect if you're not connected yet
 4. To test, chose "Debug" from the menu and play around
 
@@ -63,8 +63,8 @@ Below Libraries are used for BT and Documentation
 * The initial connection to a Mi Band sometimes takes a little patience. Try to connect a few times, wait, 
   and try connecting again. This only happens until you have "bonded" with the Mi Band, i.e. until it 
   knows your MAC address. This behavior may also only occur with older firmware versions.
-* If you use other apps like Mi Fit, and "bonding" with Gadgetbridge does not work, please
-  try to unpair the band in the other app and try again with Gadgetbridge.
+* If you use other apps like Mi Fit, and "bonding" with Strive does not work, please
+  try to unpair the band in the other app and try again with Strive.
 * While all Mi Band devices are supported, some firmware versions might work better than others.
   You can consult the [projects wiki pages](https://github.com/Freeyourgadget/Gadgetbridge/wiki/Mi-Band) 
   to check if your firmware version is fully supported or if an upgrade/downgrade might be beneficial.
