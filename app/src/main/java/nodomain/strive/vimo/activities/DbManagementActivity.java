@@ -37,7 +37,7 @@ public class DbManagementActivity extends GBActivity {
 
     private Button exportDBButton;
     private Button importDBButton;
-    private Button cloudPush;                   // this is for cloud push purpose.
+    private Button cloudPushButton;                   // this is for cloud push purpose.
     private Button importOldActivityDataButton;
     private Button deleteOldActivityDBButton;
     private Button deleteDBButton;
@@ -68,6 +68,15 @@ public class DbManagementActivity extends GBActivity {
                 importDB();
             }
         });
+
+        cloudPushButton=(Button) findViewById(R.id.senditToCloud);      // setting the button
+        cloudPushButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                cloudDB();
+            }
+        });
+
 
         boolean hasOldDB = hasOldActivityDatabase();
         int oldDBVisibility = hasOldDB ? View.VISIBLE : View.GONE;
@@ -155,6 +164,11 @@ public class DbManagementActivity extends GBActivity {
                     }
                 })
                 .show();
+    }
+
+    // this is for cloud pushing for the Fire base
+    private void cloudDB(){
+
     }
 
     private void mergeOldActivityDbContents() {

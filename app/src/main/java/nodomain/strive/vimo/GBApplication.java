@@ -69,8 +69,7 @@ public class GBApplication extends Application {
      */
     private static NotificationManager notificationManager;
 
-    public static final String ACTION_QUIT
-            = "nodomain.freeyourgadget.gadgetbridge.gbapplication.action.quit";
+    public static final String ACTION_QUIT = "nodomain.strive.vimo.gbapplication.action.quit";
     private static Logging logging = new Logging() {
         @Override
         protected String createLogDirectory() throws IOException {
