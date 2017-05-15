@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/murshid/Documents/VimoHealth/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 190,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "/home/murshid/.android/build-cache/e34a5e236b53ba3fbdc1b9d0ba8655c79c8fe09d/output/res/values-lo/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 190,
+                        "endOffset": 475
+                    }
+                }
+            }
+        ]
+    }
+]

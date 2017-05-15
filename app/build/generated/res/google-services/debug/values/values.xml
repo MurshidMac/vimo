@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">627851469113-o3376k65v218mdq9jh14jn06ds7oeq8m.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://vimo-strive.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">627851469113</string>
+    <string name="google_api_key" translatable="false">AIzaSyAVNQFiLv6jNNl-kD7tjQZNLiEgxQ9g6x8</string>
+    <string name="google_app_id" translatable="false">1:627851469113:android:9f783bc2e7215bee</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAVNQFiLv6jNNl-kD7tjQZNLiEgxQ9g6x8</string>
+    <string name="google_storage_bucket" translatable="false">vimo-strive.appspot.com</string>
+</resources>

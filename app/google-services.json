@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "627851469113",
+    "firebase_url": "https://vimo-strive.firebaseio.com",
+    "project_id": "vimo-strive",
+    "storage_bucket": "vimo-strive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627851469113:android:9f783bc2e7215bee",
+        "android_client_info": {
+          "package_name": "com.vimo.strivehealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627851469113-7q78q3i5ee5184sim7badtrupjcnokre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vimo.strivehealth",
+            "certificate_hash": "4112638184c336dfc15cc147db5c42f459e1745f"
+          }
+        },
+        {
+          "client_id": "627851469113-o3376k65v218mdq9jh14jn06ds7oeq8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVNQFiLv6jNNl-kD7tjQZNLiEgxQ9g6x8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627851469113-o3376k65v218mdq9jh14jn06ds7oeq8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GBDaoGenerator/GBDaoGenerator.iml" filepath="$PROJECT_DIR$/GBDaoGenerator/GBDaoGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VimoHealth.iml" filepath="$PROJECT_DIR$/VimoHealth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/menu/appmanager_context.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/menu/appmanager_context.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/menu/menu_charts.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/menu/menu_charts.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/menu/controlcenter_context.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/menu/controlcenter_context.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/menu/menu_alarm_details.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/menu/menu_alarm_details.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/menu/menu_set_alarm.xml",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/menu/menu_set_alarm.xml"
+    }
+]
