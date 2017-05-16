@@ -8,20 +8,20 @@
         "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/fragment_live_activity.xml",
         "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/layout/fragment_live_activity.xml"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/layout/activity_weather_notification.xml",

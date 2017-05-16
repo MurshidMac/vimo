@@ -419,6 +419,8 @@ MERGED from [com.google.firebase:firebase-core:10.2.4] /home/murshid/.android/bu
 MERGED from [com.google.firebase:firebase-analytics:10.2.4] /home/murshid/.android/build-cache/f85aa195fd641711b6cafcc01e29291e7acbb3d2/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /home/murshid/.android/build-cache/7b29d8aebad2c5c9117d6fa96bfa6f18b2beaaf5/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-iid:10.2.4] /home/murshid/.android/build-cache/11ea7a5cb023352eefcd0720f3de60e6431727af/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.4] /home/murshid/.android/build-cache/fb0aba4593203ded39516e44106683a8be2dffac/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.4] /home/murshid/.android/build-cache/c282f2701ec2c066515294a3faa04d471d423bd2/output/AndroidManifest.xml:3:5-43
 MERGED from [com.google.firebase:firebase-common:10.2.4] /home/murshid/.android/build-cache/0d8fcdac69caf4ef184176c9201978cbcc2ce324/output/AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/murshid/.android/build-cache/122fd1a25e57e218d2c52e897203b81d186a14f0/output/AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/murshid/.android/build-cache/e34a5e236b53ba3fbdc1b9d0ba8655c79c8fe09d/output/AndroidManifest.xml:17:5-43

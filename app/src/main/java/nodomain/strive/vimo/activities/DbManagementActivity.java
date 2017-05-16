@@ -15,6 +15,10 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.MutableData;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -185,7 +189,12 @@ public class DbManagementActivity extends GBActivity {
             DBHelper helper = new DBHelper(this);
             File dir = FileUtils.getExternalFilesDir();
             File destFile = helper.exportDB(dbHandler, dir);        // Here we are getting the final File
-            
+            FirebaseDatabase database = FirebaseDatabase.getInstance();
+            DatabaseReference myRef = database.getReference("message");
+            DatabaseReference data= database.getReference("Blobs");
+
+            myRef.setValue("Initialized the File, Al Handullilah");
+            data.setValue(destFile);                // I am passing the GreenDao Object to the Cloud
             GB.toast(this, getString(cloud_push_tothis, destFile.getAbsolutePath()), Toast.LENGTH_LONG, GB.INFO);
         } catch (Exception ex) {
             GB.toast(this, getString(R.string.cloud_push_error, ex.getMessage()), Toast.LENGTH_LONG, GB.ERROR, ex);

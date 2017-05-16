@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue May 16 13:59:15 IST 2017
+#Tue May 16 15:13:46 IST 2017
 210.set=JAVA_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png

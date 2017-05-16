@@ -75,6 +75,8 @@ dependencies {
     compile 'org.apache.commons:commons-lang3:3.4'
     // firebase core modules
     compile 'com.google.firebase:firebase-core:10.2.4'
+    // this is database
+    compile 'com.google.firebase:firebase-database:10.2.4'
     // FirebaseUI Database only
     //compile 'com.firebaseui:firebase-ui-database:1.2.0'
     // firebase Authentication

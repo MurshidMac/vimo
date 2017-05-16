@@ -1,4 +1,4 @@
-#Tue May 16 13:59:13 IST 2017
+#Tue May 16 15:13:42 IST 2017
 base.0=/home/murshid/Documents/VimoHealth/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
 renamed.0=classes.dex
 file.0=/home/murshid/Documents/VimoHealth/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex
