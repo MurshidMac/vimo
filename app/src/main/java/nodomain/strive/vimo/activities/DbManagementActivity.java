@@ -70,6 +70,12 @@ public class DbManagementActivity extends GBActivity {
         });
 
         cloudPushButton=(Button) findViewById(R.id.senditToCloud);      // setting the button
+        importDBButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                cloudDB();
+            }
+        });
 
 //        cloudPushButton.setOnClickListener(new View.OnClickListener() {
 //            @Override
@@ -169,7 +175,8 @@ public class DbManagementActivity extends GBActivity {
 
     // this is for cloud pushing for the Fire base
     private void cloudDB(){
-
+        // I have to send the data to the android firebase database from here while clicking database from here
+        // 
     }
 
     private void mergeOldActivityDbContents() {
