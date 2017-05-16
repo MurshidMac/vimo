@@ -22,7 +22,7 @@ import java.util.Collections;
 import java.util.List;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import static nodomain.strive.vimo.R;
 import nodomain.strive.vimo.adapter.GBDeviceAdapter;
 import nodomain.strive.vimo.database.ActivityDatabaseHandler;
 import nodomain.strive.vimo.database.DBHandler;
@@ -70,12 +70,13 @@ public class DbManagementActivity extends GBActivity {
         });
 
         cloudPushButton=(Button) findViewById(R.id.senditToCloud);      // setting the button
-        cloudPushButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                cloudDB();
-            }
-        });
+
+//        cloudPushButton.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//                cloudDB();
+//            }
+//        });
 
 
         boolean hasOldDB = hasOldActivityDatabase();

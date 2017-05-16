@@ -42,7 +42,7 @@ import nodomain.strive.vimo.util.GB;
 import nodomain.strive.vimo.util.GBPrefs;
 import nodomain.strive.vimo.util.LimitedQueue;
 import nodomain.strive.vimo.util.Prefs;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 
 /**
  * Main Application class that initializes and provides access

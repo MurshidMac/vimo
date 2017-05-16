@@ -73,18 +73,20 @@ dependencies {
     compile 'com.github.freeyourgadget:greendao:1998d7cd2d21f662c6044f6ccf3b3a251bbad341'
     compile 'com.github.woxthebox:draglistview:1.2.6'
     compile 'org.apache.commons:commons-lang3:3.4'
+    // firebase core modules
     compile 'com.google.firebase:firebase-core:10.2.4'
     // FirebaseUI Database only
     compile 'com.firebaseui:firebase-ui-database:1.2.0'
-
+    // firebase Authentication
+    compile 'com.google.firebase:firebase-auth:10.2.4'
     // FirebaseUI Auth only
-    compile 'com.firebaseui:firebase-ui-auth:1.2.0'
+    //compile 'com.firebaseui:firebase-ui-auth:1.2.0'
 
     // FirebaseUI Storage only
-    compile 'com.firebaseui:firebase-ui-storage:1.2.0'
+    //compile 'com.firebaseui:firebase-ui-storage:1.2.0'
 
     // Single target that includes all FirebaseUI libraries above
-    compile 'com.firebaseui:firebase-ui:1.2.0'
+    //compile 'com.firebaseui:firebase-ui:1.2.0'
     // compile 'com.microsoft.azure:azure-mobile-android:3.1.0'
     //    compile project(":DaoCore")
 }
