@@ -1,5 +1,6 @@
 package nodomain.strive.vimo.activities;
 
+import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
@@ -32,11 +33,13 @@ import nodomain.strive.vimo.util.FileUtils;
 import nodomain.strive.vimo.util.GB;
 import nodomain.strive.vimo.R;
 
+import static nodomain.strive.vimo.R.string.cloud_push_tothis;
+
 public class DbManagementActivity extends GBActivity {
     private static final Logger LOG = LoggerFactory.getLogger(DbManagementActivity.class);
 
-    private Button exportDBButton;
-    private Button importDBButton;
+    private Button exportDBButton;                    // Export Button
+    private Button importDBButton;                    // Imoport Button
     private Button cloudPushButton;                   // this is for cloud push purpose.
     private Button importOldActivityDataButton;
     private Button deleteOldActivityDBButton;
@@ -174,9 +177,19 @@ public class DbManagementActivity extends GBActivity {
     }
 
     // this is for cloud pushing for the Fire base
+    @SuppressLint("StringFormatInvalid")
     private void cloudDB(){
         // I have to send the data to the android firebase database from here while clicking database from here
         //
+        try (DBHandler dbHandler = GBApplication.acquireDB()) {
+            DBHelper helper = new DBHelper(this);
+            File dir = FileUtils.getExternalFilesDir();
+            File destFile = helper.exportDB(dbHandler, dir);        // Here we are getting the final File
+            
+            GB.toast(this, getString(cloud_push_tothis, destFile.getAbsolutePath()), Toast.LENGTH_LONG, GB.INFO);
+        } catch (Exception ex) {
+            GB.toast(this, getString(R.string.cloud_push_error, ex.getMessage()), Toast.LENGTH_LONG, GB.ERROR, ex);
+        }
     }
 
     private void mergeOldActivityDbContents() {
