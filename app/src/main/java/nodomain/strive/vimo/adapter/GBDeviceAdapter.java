@@ -15,7 +15,7 @@ import android.widget.TextView;
 import java.util.Collections;
 import java.util.List;
 
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.impl.GBDevice;
 import nodomain.strive.vimo.model.BatteryState;
 import nodomain.strive.vimo.model.ItemWithDetails;

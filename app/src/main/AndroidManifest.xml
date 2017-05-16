@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="nodomain.freeyourgadget.vimo">
+    package="nodomain.strive.vimo">
 
     <!--
         Comment in for testing Pebble Emulator
@@ -237,14 +237,14 @@
             android:name="nodomain.strive.vimo.service.receivers.GBMusicControlReceiver"
             android:exported="false">
             <intent-filter>
-                <action android:name="nodomain.freeyourgadget.gadgetbridge.musiccontrol" />
+                <action android:name="nodomain.strive.vimo.musiccontrol" />
             </intent-filter>
         </receiver>
         <receiver
             android:name="nodomain.strive.vimo.service.receivers.GBCallControlReceiver"
             android:exported="false">
             <intent-filter>
-                <action android:name="nodomain.freeyourgadget.gadgetbridge.callcontrol" />
+                <action android:name="nodomain.strive.vimo.callcontrol" />
             </intent-filter>
         </receiver>
 
@@ -307,7 +307,7 @@
         <receiver android:name="nodomain.strive.vimo.SleepAlarmWidget">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
-                <action android:name="nodomain.freeyourgadget.gadgetbridge.SLEEP_ALARM_WIDGET_CLICK" />
+                <action android:name="nodomain.strive.vimo.SLEEP_ALARM_WIDGET_CLICK" />
             </intent-filter>
 
             <meta-data

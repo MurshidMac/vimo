@@ -22,7 +22,7 @@ import java.util.Collections;
 import java.util.List;
 
 import nodomain.strive.vimo.GBApplication;
-import static nodomain.strive.vimo.R;
+
 import nodomain.strive.vimo.adapter.GBDeviceAdapter;
 import nodomain.strive.vimo.database.ActivityDatabaseHandler;
 import nodomain.strive.vimo.database.DBHandler;

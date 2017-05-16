@@ -2,7 +2,7 @@
 manifest
 ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:2:1-338:12
 	package
-		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:3:5-43
+		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:3:5-35
 		INJECTED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml
 		INJECTED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -250,24 +250,24 @@ ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:2
 		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:238:13-37
 	android:name
 		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:237:13-89
-intent-filter#nodomain.freeyourgadget.gadgetbridge.musiccontrol
+intent-filter#nodomain.strive.vimo.musiccontrol
 ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:239:13-241:29
-action#nodomain.freeyourgadget.gadgetbridge.musiccontrol
-ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:240:17-92
+action#nodomain.strive.vimo.musiccontrol
+ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:240:17-76
 	android:name
-		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:240:25-89
+		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:240:25-73
 receiver#nodomain.strive.vimo.service.receivers.GBCallControlReceiver
 ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:243:9-249:20
 	android:exported
 		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:245:13-37
 	android:name
 		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:244:13-88
-intent-filter#nodomain.freeyourgadget.gadgetbridge.callcontrol
+intent-filter#nodomain.strive.vimo.callcontrol
 ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:246:13-248:29
-action#nodomain.freeyourgadget.gadgetbridge.callcontrol
-ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:247:17-91
+action#nodomain.strive.vimo.callcontrol
+ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:247:17-75
 	android:name
-		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:247:25-88
+		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:247:25-72
 activity#nodomain.strive.vimo.activities.DebugActivity
 ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:255:9-260:57
 	android:screenOrientation
@@ -372,16 +372,16 @@ receiver#nodomain.strive.vimo.SleepAlarmWidget
 ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:307:9-316:20
 	android:name
 		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:307:19-71
-intent-filter#android.appwidget.action.APPWIDGET_UPDATE+nodomain.freeyourgadget.gadgetbridge.SLEEP_ALARM_WIDGET_CLICK
+intent-filter#android.appwidget.action.APPWIDGET_UPDATE+nodomain.strive.vimo.SLEEP_ALARM_WIDGET_CLICK
 ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:308:13-311:29
 action#android.appwidget.action.APPWIDGET_UPDATE
 ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:309:17-84
 	android:name
 		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:309:25-81
-action#nodomain.freeyourgadget.gadgetbridge.SLEEP_ALARM_WIDGET_CLICK
-ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:310:17-104
+action#nodomain.strive.vimo.SLEEP_ALARM_WIDGET_CLICK
+ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:310:17-88
 	android:name
-		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:310:25-101
+		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:310:25-85
 meta-data#android.appwidget.provider
 ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:313:13-315:67
 	android:resource
