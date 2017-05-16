@@ -30,7 +30,7 @@ import org.slf4j.LoggerFactory;
 import java.util.List;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.model.AppNotificationType;
 import nodomain.strive.vimo.model.MusicSpec;
 import nodomain.strive.vimo.model.MusicStateSpec;

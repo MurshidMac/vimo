@@ -36,7 +36,7 @@ import java.util.List;
 
 import de.cketti.library.changelog.ChangeLog;
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.charts.ChartsActivity;
 import nodomain.strive.vimo.adapter.GBDeviceAdapter;
 import nodomain.strive.vimo.devices.DeviceCoordinator;

@@ -16,7 +16,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.Writer;
 
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.InstallActivity;
 import nodomain.strive.vimo.activities.appmanager.AppManagerActivity;
 import nodomain.strive.vimo.devices.InstallHandler;

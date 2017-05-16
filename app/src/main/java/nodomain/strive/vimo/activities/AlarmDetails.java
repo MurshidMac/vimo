@@ -9,7 +9,7 @@ import android.widget.TextView;
 import android.widget.TimePicker;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.devices.DeviceCoordinator;
 import nodomain.strive.vimo.impl.GBAlarm;
 import nodomain.strive.vimo.impl.GBDevice;

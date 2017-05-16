@@ -26,7 +26,7 @@ import java.util.GregorianCalendar;
 import java.util.List;
 import java.util.UUID;
 
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.devices.hplus.HPlusConstants;
 import nodomain.strive.vimo.devices.hplus.HPlusCoordinator;
 import nodomain.strive.vimo.impl.GBDevice;

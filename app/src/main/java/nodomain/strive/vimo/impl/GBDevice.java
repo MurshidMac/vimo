@@ -16,7 +16,7 @@ import java.util.Collections;
 import java.util.List;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.model.BatteryState;
 import nodomain.strive.vimo.model.DeviceType;
 import nodomain.strive.vimo.model.GenericItem;

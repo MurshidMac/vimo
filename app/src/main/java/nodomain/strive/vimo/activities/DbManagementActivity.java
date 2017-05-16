@@ -30,7 +30,7 @@ import nodomain.strive.vimo.database.DBHelper;
 import nodomain.strive.vimo.impl.GBDevice;
 import nodomain.strive.vimo.util.FileUtils;
 import nodomain.strive.vimo.util.GB;
-
+import nodomain.strive.vimo.R;
 
 public class DbManagementActivity extends GBActivity {
     private static final Logger LOG = LoggerFactory.getLogger(DbManagementActivity.class);

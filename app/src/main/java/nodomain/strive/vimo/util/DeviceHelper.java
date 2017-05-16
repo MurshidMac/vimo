@@ -17,7 +17,7 @@ import java.util.Set;
 
 import nodomain.strive.vimo.GBApplication;
 import nodomain.strive.vimo.GBException;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.database.DBHandler;
 import nodomain.strive.vimo.database.DBHelper;
 import nodomain.strive.vimo.devices.DeviceCoordinator;

@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
 
 import nodomain.strive.vimo.GBApplication;
 import nodomain.strive.vimo.Logging;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.database.DBHandler;
 import nodomain.strive.vimo.database.DBHelper;
 import nodomain.strive.vimo.devices.SampleProvider;

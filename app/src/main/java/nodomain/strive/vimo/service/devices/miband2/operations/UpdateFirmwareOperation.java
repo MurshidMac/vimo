@@ -14,7 +14,7 @@ import java.util.Arrays;
 import java.util.UUID;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.deviceevents.GBDeviceEventDisplayMessage;
 import nodomain.strive.vimo.devices.miband.MiBand2Service;
 import nodomain.strive.vimo.service.btle.BLETypeConversions;

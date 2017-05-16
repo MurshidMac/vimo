@@ -18,7 +18,7 @@ import nodomain.strive.vimo.activities.ConfigureAlarms;
 import nodomain.strive.vimo.impl.GBAlarm;
 import nodomain.strive.vimo.model.ActivityUser;
 import nodomain.strive.vimo.util.GB;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 
 /**
  * Implementation of SleepAlarmWidget functionality. When pressing the widget, an alarm will be set

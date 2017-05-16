@@ -6,7 +6,7 @@ import android.net.Uri;
 import android.support.annotation.NonNull;
 
 import nodomain.strive.vimo.GBException;
-import nodomain.freeyourgadget.vimo.R;      // R for Data mining
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.VibrationActivity;
 import nodomain.strive.vimo.devices.AbstractDeviceCoordinator;
 import nodomain.strive.vimo.devices.InstallHandler;

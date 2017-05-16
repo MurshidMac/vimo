@@ -16,7 +16,7 @@ import java.util.Collections;
 import java.util.Set;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.ConfigureAlarms;
 import nodomain.strive.vimo.impl.GBAlarm;
 import nodomain.strive.vimo.model.Alarm;

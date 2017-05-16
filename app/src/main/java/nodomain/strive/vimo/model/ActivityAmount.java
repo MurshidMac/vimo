@@ -2,7 +2,7 @@ package nodomain.strive.vimo.model;
 
 import android.content.Context;
 
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 
 public class ActivityAmount {
     private final int activityKind;

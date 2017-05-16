@@ -2,8 +2,7 @@ package nodomain.strive.vimo.activities;
 
 import android.os.Bundle;
 
-import nodomain.freeyourgadget.vimo.R;
-
+import nodomain.strive.vimo.R;
 public class AndroidPairingActivity extends GBActivity {
 
     @Override

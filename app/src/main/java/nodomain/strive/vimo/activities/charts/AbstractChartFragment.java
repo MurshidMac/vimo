@@ -43,7 +43,7 @@ import java.util.List;
 import java.util.Set;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.AbstractGBFragment;
 import nodomain.strive.vimo.activities.HeartRateUtils;
 import nodomain.strive.vimo.database.DBAccess;

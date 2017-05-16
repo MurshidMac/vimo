@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
 import java.util.Locale;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.util.Prefs;
 
 

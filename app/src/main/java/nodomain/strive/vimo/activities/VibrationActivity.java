@@ -12,8 +12,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
-
+import nodomain.strive.vimo.R;
 
 public class VibrationActivity extends GBActivity {
     private static final Logger LOG = LoggerFactory.getLogger(VibrationActivity.class);

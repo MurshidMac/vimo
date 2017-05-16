@@ -22,7 +22,7 @@ import java.util.Random;
 import java.util.UUID;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.OnboardingActivity;
 import nodomain.strive.vimo.database.DBHandler;
 import nodomain.strive.vimo.database.DBHelper;

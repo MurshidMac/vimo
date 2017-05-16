@@ -10,7 +10,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.adapter.GBAlarmListAdapter;
 import nodomain.strive.vimo.devices.miband.MiBandConst;
 import nodomain.strive.vimo.impl.GBAlarm;

@@ -28,7 +28,7 @@ import java.util.Calendar;
 import java.util.List;
 import java.util.Locale;
 
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.database.DBHandler;
 import nodomain.strive.vimo.devices.miband.MiBandCoordinator;
 import nodomain.strive.vimo.impl.GBDevice;

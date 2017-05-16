@@ -20,7 +20,7 @@ import java.util.List;
 import java.util.UUID;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.database.DBHandler;
 import nodomain.strive.vimo.database.DBHelper;
 import nodomain.strive.vimo.deviceevents.GBDeviceEventBatteryInfo;

@@ -8,7 +8,7 @@ import java.lang.reflect.Constructor;
 import java.util.EnumSet;
 
 import nodomain.strive.vimo.GBException;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.impl.GBDevice;
 import nodomain.strive.vimo.model.DeviceType;
 import nodomain.strive.vimo.service.devices.liveview.LiveviewSupport;

@@ -23,7 +23,7 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 import java.util.TimeZone;
 
-import nodomain.freeyourgadget.vimo.BuildConfig;
+import nodomain.strive.vimo.BuildConfig;
 import nodomain.strive.vimo.GBApplication;
 import nodomain.strive.vimo.model.CalendarEventSpec;
 import nodomain.strive.vimo.util.Prefs;

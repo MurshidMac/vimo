@@ -13,8 +13,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
-
+import nodomain.strive.vimo.R;
 /**
  * A settings activity with support for preferences directly displaying their value.
  * If you combine such preferences with a custom OnPreferenceChangeListener, you have

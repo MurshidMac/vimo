@@ -29,7 +29,7 @@ import java.util.IdentityHashMap;
 import java.util.List;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 
 
 public class AppBlacklistActivity extends GBActivity {

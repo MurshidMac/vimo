@@ -27,7 +27,7 @@ import java.util.List;
 import java.util.Locale;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.devices.DeviceManager;
 import nodomain.strive.vimo.devices.miband.MiBandPreferencesActivity;
 import nodomain.strive.vimo.model.CannedMessagesSpec;

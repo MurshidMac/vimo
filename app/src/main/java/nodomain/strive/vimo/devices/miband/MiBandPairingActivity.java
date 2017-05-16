@@ -17,7 +17,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.ControlCenter;
 import nodomain.strive.vimo.activities.DiscoveryActivity;
 import nodomain.strive.vimo.activities.GBActivity;

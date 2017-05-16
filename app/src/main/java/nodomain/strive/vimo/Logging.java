@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
-import nodomain.freeyourgadget.vimo.BuildConfig;    // this is to add the buildconfig in to the profile
+import nodomain.strive.vimo.BuildConfig;    // this is to add the buildconfig in to the profile
 import ch.qos.logback.classic.LoggerContext;
 import ch.qos.logback.classic.spi.ILoggingEvent;
 import ch.qos.logback.core.Appender;

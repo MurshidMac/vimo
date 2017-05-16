@@ -37,7 +37,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.adapter.DeviceCandidateAdapter;
 import nodomain.strive.vimo.devices.DeviceCoordinator;
 import nodomain.strive.vimo.impl.GBDevice;

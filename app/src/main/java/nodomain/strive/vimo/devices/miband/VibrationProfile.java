@@ -3,7 +3,7 @@ package nodomain.strive.vimo.devices.miband;
 import android.content.Context;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.service.btle.profiles.alertnotification.AlertLevel;
 
 public class VibrationProfile {

@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.model.ItemWithDetails;
 
 /**

@@ -16,7 +16,7 @@ import java.util.Collection;
 import java.util.Collections;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.devices.InstallHandler;
 import nodomain.strive.vimo.devices.SampleProvider;
 import nodomain.strive.vimo.devices.miband2.MiBand2FWInstallHandler;

@@ -28,7 +28,7 @@ import java.util.List;
 import java.util.UUID;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.AbstractFragmentPagerAdapter;
 import nodomain.strive.vimo.activities.AbstractGBFragmentActivity;
 import nodomain.strive.vimo.activities.FwAppInstallerActivity;

@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
 
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.InstallActivity;
 import nodomain.strive.vimo.devices.InstallHandler;
 import nodomain.strive.vimo.impl.GBDevice;

@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.UUID;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.appmanager.ABAppManager;
 import nodomain.strive.vimo.impl.DeviceApp;
 

@@ -25,7 +25,7 @@ import org.slf4j.LoggerFactory;
 import java.util.ArrayList;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.impl.GBDevice;
 import nodomain.strive.vimo.model.CallSpec;
 import nodomain.strive.vimo.model.DeviceService;

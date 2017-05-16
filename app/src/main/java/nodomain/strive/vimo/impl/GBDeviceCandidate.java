@@ -17,7 +17,7 @@ import java.util.Set;
 import java.util.UUID;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.model.DeviceType;
 import nodomain.strive.vimo.util.AndroidUtils;
 

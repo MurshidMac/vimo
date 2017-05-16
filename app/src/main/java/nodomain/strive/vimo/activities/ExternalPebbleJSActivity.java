@@ -33,7 +33,7 @@ import java.util.Scanner;
 import java.util.UUID;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.impl.GBDevice;
 import nodomain.strive.vimo.model.DeviceService;
 import nodomain.strive.vimo.util.FileUtils;

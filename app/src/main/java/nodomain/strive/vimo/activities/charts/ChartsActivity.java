@@ -29,7 +29,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.AbstractFragmentPagerAdapter;
 import nodomain.strive.vimo.activities.AbstractGBFragmentActivity;
 import nodomain.strive.vimo.devices.DeviceCoordinator;

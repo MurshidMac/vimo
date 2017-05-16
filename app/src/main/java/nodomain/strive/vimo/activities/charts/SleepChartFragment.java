@@ -29,7 +29,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.HeartRateUtils;
 import nodomain.strive.vimo.database.DBHandler;
 import nodomain.strive.vimo.impl.GBDevice;

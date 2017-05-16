@@ -15,7 +15,7 @@ import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.database.DBHandler;
 import nodomain.strive.vimo.database.DBHelper;
 import nodomain.strive.vimo.devices.miband.MiBandConst;

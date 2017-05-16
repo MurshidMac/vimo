@@ -7,7 +7,7 @@ import android.net.Uri;
 import de.greenrobot.dao.query.QueryBuilder;
 import nodomain.strive.vimo.GBApplication;
 import nodomain.strive.vimo.GBException;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.appmanager.AppManagerActivity;
 import nodomain.strive.vimo.devices.AbstractDeviceCoordinator;
 import nodomain.strive.vimo.devices.InstallHandler;

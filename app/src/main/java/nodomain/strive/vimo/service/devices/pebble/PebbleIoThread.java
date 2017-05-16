@@ -25,7 +25,7 @@ import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 
 import nodomain.strive.vimo.GBApplication;
-import nodomain.freeyourgadget.vimo.R;
+import nodomain.strive.vimo.R;
 import nodomain.strive.vimo.activities.appmanager.ABAppManager;
 import nodomain.strive.vimo.activities.appmanager.AppManagerActivity;
 import nodomain.strive.vimo.deviceevents.GBDeviceEvent;
