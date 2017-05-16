@@ -8,22 +8,22 @@ package de.cketti.library.changelog;
 
 public final class R {
     public static final class string {
-        public static final int changelog_full_title = 0x7f060061;
-        public static final int changelog_ok_button = 0x7f060062;
-        public static final int changelog_show_full = 0x7f060063;
-        public static final int changelog_title = 0x7f060064;
-        public static final int changelog_version_format = 0x7f060065;
-        public static final int define_ckChangeLog = 0x7f06018a;
-        public static final int library_ckChangeLog_author = 0x7f06019a;
-        public static final int library_ckChangeLog_authorWebsite = 0x7f06019b;
-        public static final int library_ckChangeLog_isOpenSource = 0x7f06019c;
-        public static final int library_ckChangeLog_libraryDescription = 0x7f06019d;
-        public static final int library_ckChangeLog_libraryName = 0x7f06019e;
-        public static final int library_ckChangeLog_libraryVersion = 0x7f06019f;
-        public static final int library_ckChangeLog_libraryWebsite = 0x7f0601a0;
-        public static final int library_ckChangeLog_licenseId = 0x7f0601a1;
-        public static final int library_ckChangeLog_licenseVersion = 0x7f0601a2;
-        public static final int library_ckChangeLog_repositoryLink = 0x7f0601a3;
+        public static final int changelog_full_title = 0x7f060050;
+        public static final int changelog_ok_button = 0x7f060051;
+        public static final int changelog_show_full = 0x7f060052;
+        public static final int changelog_title = 0x7f060053;
+        public static final int changelog_version_format = 0x7f060054;
+        public static final int define_ckChangeLog = 0x7f06016d;
+        public static final int library_ckChangeLog_author = 0x7f06017d;
+        public static final int library_ckChangeLog_authorWebsite = 0x7f06017e;
+        public static final int library_ckChangeLog_isOpenSource = 0x7f06017f;
+        public static final int library_ckChangeLog_libraryDescription = 0x7f060180;
+        public static final int library_ckChangeLog_libraryName = 0x7f060181;
+        public static final int library_ckChangeLog_libraryVersion = 0x7f060182;
+        public static final int library_ckChangeLog_libraryWebsite = 0x7f060183;
+        public static final int library_ckChangeLog_licenseId = 0x7f060184;
+        public static final int library_ckChangeLog_licenseVersion = 0x7f060185;
+        public static final int library_ckChangeLog_repositoryLink = 0x7f060186;
     }
     public static final class xml {
         public static final int changelog = 0x7f050000;

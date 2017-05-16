@@ -1,4 +1,7 @@
-#Tue May 16 11:05:13 IST 2017
-base.0=/home/murshid/Documents/VimoHealth/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Tue May 16 13:59:14 IST 2017
+base.0=/home/murshid/Documents/VimoHealth/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d5185afcfde7191793a5e9b21a53e65bd01f029
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=/home/murshid/Documents/VimoHealth/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.1=/home/murshid/Documents/VimoHealth/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_242a83669993d3c5e46cef601872964dda19c8aa/classes.dex
+base.1=/home/murshid/Documents/VimoHealth/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_242a83669993d3c5e46cef601872964dda19c8aa
+file.0=/home/murshid/Documents/VimoHealth/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7d5185afcfde7191793a5e9b21a53e65bd01f029/classes.dex

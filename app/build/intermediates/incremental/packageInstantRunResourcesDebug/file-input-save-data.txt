@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon May 15 13:12:46 IST 2017
+#Tue May 16 13:58:45 IST 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/anim/abc_popup_exit.xml
@@ -97,10 +97,10 @@
 41.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/layout-sw600dp-v13/design_layout_snackbar.xml
 196.set=ANDROID_RESOURCE
 116.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/layout/select_dialog_multichoice_material.xml
-93.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldrtl-hdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
+93.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
 147.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 59.set=ANDROID_RESOURCE
-168.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+168.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
 199.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 122.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 220.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable/abc_text_cursor_material.xml
@@ -159,10 +159,10 @@
 219.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/layout/abc_action_bar_view_list_nav_layout.xml
 42.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/color/abc_primary_text_disable_only_material_dark.xml
 117.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/layout/fragment_sleepchart.xml
-94.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+94.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-ldrtl-hdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png
 148.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 69.set=ANDROID_RESOURCE
-169.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+169.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
 200.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 123.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 221.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/menu/appmanager_context.xml
@@ -260,7 +260,7 @@
 119.set=ANDROID_RESOURCE
 61.set=ANDROID_RESOURCE
 3.set=ANDROID_RESOURCE
-57.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable/abc_ratingbar_indicator_material.xml
+57.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable/abc_switch_thumb_material.xml
 32.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png
 165.set=ANDROID_RESOURCE
 63.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
@@ -311,7 +311,7 @@
 210.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_debug.xml
 133.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/color/abc_primary_text_disable_only_material_light.xml
 64.set=ANDROID_RESOURCE
-185.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/layout/notification_template_lines.xml
+185.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_device_pebble_disabled.png
 6.set=ANDROID_RESOURCE
 160.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable/abc_ratingbar_full_material.xml
 168.set=ANDROID_RESOURCE
@@ -319,7 +319,7 @@
 25.set=ANDROID_RESOURCE
 129.set=ANDROID_RESOURCE
 71.set=ANDROID_RESOURCE
-58.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable/abc_switch_thumb_material.xml
+58.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable/abc_ratingbar_indicator_material.xml
 33.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_ic_search_api_mtrl_alpha.png
 64.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 216.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
@@ -373,7 +373,7 @@
 211.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/layout/fragment_charts.xml
 134.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/layout/abc_alert_dialog_material.xml
 74.set=ANDROID_RESOURCE
-186.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_device_pebble_disabled.png
+186.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/layout/notification_template_lines.xml
 161.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_external_pebble_js.xml
 192.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 231.set=ANDROID_RESOURCE
@@ -411,7 +411,7 @@
 204.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 73.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_mi_band_pairing.xml
 127.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
-225.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+225.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
 179.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 102.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 160.set=ANDROID_RESOURCE
@@ -474,7 +474,7 @@ count=235
 205.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 74.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/ic_device_miband.png
 128.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
-226.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+226.file=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
 103.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 232.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_
 155.base=/home/murshid/Documents/VimoHealth/app/build/intermediates/res/resources-debug.ap_

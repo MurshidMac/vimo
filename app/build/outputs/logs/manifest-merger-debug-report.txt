@@ -82,26 +82,18 @@ ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:2
 application
 ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:32:5-336:19
 MERGED from [com.android.support:design:23.3.0] /home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] /home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /home/murshid/.android/build-cache/fb184795ca67fe1b0687739a982bad4a94d6da6d/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/murshid/.android/build-cache/bbc105c5d2dc16798bea8f1257a7430671ca9818/output/AndroidManifest.xml:7:5-20
 MERGED from [de.cketti.library.changelog:ckchangelog:1.2.2] /home/murshid/.android/build-cache/d78ef71886bf2d4a77084d9742b9e046fc660b7f/output/AndroidManifest.xml:9:5-20
 MERGED from [com.google.firebase:firebase-core:10.2.4] /home/murshid/.android/build-cache/29397435cd67506a860a69fe48ae4bde9a70b713/output/AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-analytics:10.2.4] /home/murshid/.android/build-cache/f85aa195fd641711b6cafcc01e29291e7acbb3d2/output/AndroidManifest.xml:24:5-33:19
 MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /home/murshid/.android/build-cache/7b29d8aebad2c5c9117d6fa96bfa6f18b2beaaf5/output/AndroidManifest.xml:24:5-28:19
 MERGED from [com.google.firebase:firebase-iid:10.2.4] /home/murshid/.android/build-cache/11ea7a5cb023352eefcd0720f3de60e6431727af/output/AndroidManifest.xml:28:5-49:19
-MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/murshid/.android/build-cache/7bf794cad6ed469f9fea5f5c2672a2ec18d65f9e/output/AndroidManifest.xml:13:5-17:19
-MERGED from [com.android.support:appcompat-v7:25.1.1] /home/murshid/.android/build-cache/ca98da323d21c3fd1da20dd6458ce74ec7bc00b9/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/murshid/.android/build-cache/e075c2ac2c1fcc5c12f16dfd15901539acd1f745/output/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/murshid/.android/build-cache/98f911e887c1b5624f9356bea1b85a0977caa010/output/AndroidManifest.xml:23:5-20
-MERGED from [com.google.firebase:firebase-auth:10.2.4] /home/murshid/.android/build-cache/e4613f56b096ee8e14d3f69e24d88734eafe2238/output/AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/murshid/.android/build-cache/84ffdbee4ab0c1d6a241d0709d64e4c4ef248057/output/AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.firebase:firebase-common:10.2.4] /home/murshid/.android/build-cache/0d8fcdac69caf4ef184176c9201978cbcc2ce324/output/AndroidManifest.xml:4:5-7:19
 MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/murshid/.android/build-cache/122fd1a25e57e218d2c52e897203b81d186a14f0/output/AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/murshid/.android/build-cache/e34a5e236b53ba3fbdc1b9d0ba8655c79c8fe09d/output/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:25.1.1] /home/murshid/.android/build-cache/44f734431ac5b5629877b266f038b0788be67e16/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.1] /home/murshid/.android/build-cache/960225884a4bed192bb29c0f0a39d0c7367046f8/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.1] /home/murshid/.android/build-cache/c77290844cf72c38c752116c3d0bf30fdcd7661a/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.1] /home/murshid/.android/build-cache/28fb091c63048456be525c566716b9b3c68a0028/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.1] /home/murshid/.android/build-cache/885a74ac30a8a03b34811e6a35bf845895dfb80f/output/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.1] /home/murshid/.android/build-cache/18a2f2a5ad54fad626dd4650e13638d70621d6fb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.0.0] /home/murshid/.android/build-cache/ddcc6e9c6f2c82deb0ecddd9eb75af511ca832ff/output/AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:37:9-41
 	android:fullBackupContent
@@ -417,32 +409,22 @@ ADDED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml:3
 uses-sdk
 INJECTED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:23.3.0] /home/murshid/.android/build-cache/a5ce24888934b5b3feabed0a79efac6091dea9c0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] /home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /home/murshid/.android/build-cache/fb184795ca67fe1b0687739a982bad4a94d6da6d/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /home/murshid/.android/build-cache/bbc105c5d2dc16798bea8f1257a7430671ca9818/output/AndroidManifest.xml:5:5-43
 MERGED from [de.cketti.library.changelog:ckchangelog:1.2.2] /home/murshid/.android/build-cache/d78ef71886bf2d4a77084d9742b9e046fc660b7f/output/AndroidManifest.xml:7:5-43
 MERGED from [com.github.woxthebox:draglistview:1.2.6] /home/murshid/.android/build-cache/65d7686ddd162215dda48b91397df0a87ca37147/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /home/murshid/.android/build-cache/633b179c879b2a25c054e02e29f143c1a1f4adf5/output/AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-core:10.2.4] /home/murshid/.android/build-cache/29397435cd67506a860a69fe48ae4bde9a70b713/output/AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-analytics:10.2.4] /home/murshid/.android/build-cache/f85aa195fd641711b6cafcc01e29291e7acbb3d2/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /home/murshid/.android/build-cache/7b29d8aebad2c5c9117d6fa96bfa6f18b2beaaf5/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-iid:10.2.4] /home/murshid/.android/build-cache/11ea7a5cb023352eefcd0720f3de60e6431727af/output/AndroidManifest.xml:17:5-43
-MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/murshid/.android/build-cache/7bf794cad6ed469f9fea5f5c2672a2ec18d65f9e/output/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:25.1.1] /home/murshid/.android/build-cache/ca98da323d21c3fd1da20dd6458ce74ec7bc00b9/output/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/murshid/.android/build-cache/e075c2ac2c1fcc5c12f16dfd15901539acd1f745/output/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/murshid/.android/build-cache/98f911e887c1b5624f9356bea1b85a0977caa010/output/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.1.1] /home/murshid/.android/build-cache/73d899bb9c86770625b58ea915722bfee44dcb46/output/AndroidManifest.xml:20:5-43
-MERGED from [com.google.firebase:firebase-database:10.2.0] /home/murshid/.android/build-cache/54435c32e501b3335a6d2b36a07240a1c182eac1/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database-connection:10.2.0] /home/murshid/.android/build-cache/85c1ab60ed9ef5cec25147095063ab7680bf7c35/output/AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-auth:10.2.4] /home/murshid/.android/build-cache/e4613f56b096ee8e14d3f69e24d88734eafe2238/output/AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:10.2.4] /home/murshid/.android/build-cache/84ffdbee4ab0c1d6a241d0709d64e4c4ef248057/output/AndroidManifest.xml:17:5-43
 MERGED from [com.google.firebase:firebase-common:10.2.4] /home/murshid/.android/build-cache/0d8fcdac69caf4ef184176c9201978cbcc2ce324/output/AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /home/murshid/.android/build-cache/122fd1a25e57e218d2c52e897203b81d186a14f0/output/AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/murshid/.android/build-cache/e34a5e236b53ba3fbdc1b9d0ba8655c79c8fe09d/output/AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:support-v4:25.1.1] /home/murshid/.android/build-cache/44f734431ac5b5629877b266f038b0788be67e16/output/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.1] /home/murshid/.android/build-cache/960225884a4bed192bb29c0f0a39d0c7367046f8/output/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.1] /home/murshid/.android/build-cache/c77290844cf72c38c752116c3d0bf30fdcd7661a/output/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.1] /home/murshid/.android/build-cache/28fb091c63048456be525c566716b9b3c68a0028/output/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.1] /home/murshid/.android/build-cache/885a74ac30a8a03b34811e6a35bf845895dfb80f/output/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.1] /home/murshid/.android/build-cache/18a2f2a5ad54fad626dd4650e13638d70621d6fb/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-v4:24.0.0] /home/murshid/.android/build-cache/ddcc6e9c6f2c82deb0ecddd9eb75af511ca832ff/output/AndroidManifest.xml:21:5-23:54
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.1] /home/murshid/.android/build-cache/ca98da323d21c3fd1da20dd6458ce74ec7bc00b9/output/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.3.0] /home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml
 		INJECTED from /home/murshid/Documents/VimoHealth/app/src/main/AndroidManifest.xml
@@ -453,7 +435,6 @@ uses-permission#android.permission.INTERNET
 ADDED from [com.google.firebase:firebase-analytics:10.2.4] /home/murshid/.android/build-cache/f85aa195fd641711b6cafcc01e29291e7acbb3d2/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-analytics-impl:10.2.4] /home/murshid/.android/build-cache/7b29d8aebad2c5c9117d6fa96bfa6f18b2beaaf5/output/AndroidManifest.xml:20:5-66
 MERGED from [com.google.firebase:firebase-iid:10.2.4] /home/murshid/.android/build-cache/11ea7a5cb023352eefcd0720f3de60e6431727af/output/AndroidManifest.xml:20:5-66
-MERGED from [com.firebaseui:firebase-ui-database:1.2.0] /home/murshid/.android/build-cache/7bf794cad6ed469f9fea5f5c2672a2ec18d65f9e/output/AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from [com.google.firebase:firebase-analytics:10.2.4] /home/murshid/.android/build-cache/f85aa195fd641711b6cafcc01e29291e7acbb3d2/output/AndroidManifest.xml:20:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
@@ -552,21 +533,6 @@ action#com.google.firebase.INSTANCE_ID_EVENT
 ADDED from [com.google.firebase:firebase-iid:10.2.4] /home/murshid/.android/build-cache/11ea7a5cb023352eefcd0720f3de60e6431727af/output/AndroidManifest.xml:45:17-79
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:10.2.4] /home/murshid/.android/build-cache/11ea7a5cb023352eefcd0720f3de60e6431727af/output/AndroidManifest.xml:45:25-77
-meta-data#com.google.android.gms.version
-ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/murshid/.android/build-cache/7bf794cad6ed469f9fea5f5c2672a2ec18d65f9e/output/AndroidManifest.xml:14:9-16:69
-MERGED from [com.google.android.gms:play-services-basement:10.2.4] /home/murshid/.android/build-cache/e34a5e236b53ba3fbdc1b9d0ba8655c79c8fe09d/output/AndroidManifest.xml:20:9-121
-	android:value
-		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/murshid/.android/build-cache/7bf794cad6ed469f9fea5f5c2672a2ec18d65f9e/output/AndroidManifest.xml:16:13-66
-	android:name
-		ADDED from [com.firebaseui:firebase-ui-database:1.2.0] /home/murshid/.android/build-cache/7bf794cad6ed469f9fea5f5c2672a2ec18d65f9e/output/AndroidManifest.xml:15:13-58
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/murshid/.android/build-cache/84ffdbee4ab0c1d6a241d0709d64e4c4ef248057/output/AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/murshid/.android/build-cache/84ffdbee4ab0c1d6a241d0709d64e4c4ef248057/output/AndroidManifest.xml:19:146-170
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/murshid/.android/build-cache/84ffdbee4ab0c1d6a241d0709d64e4c4ef248057/output/AndroidManifest.xml:19:86-145
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.2.4] /home/murshid/.android/build-cache/84ffdbee4ab0c1d6a241d0709d64e4c4ef248057/output/AndroidManifest.xml:19:19-85
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:10.2.4] /home/murshid/.android/build-cache/0d8fcdac69caf4ef184176c9201978cbcc2ce324/output/AndroidManifest.xml:6:9-194
 	android:authorities
@@ -577,3 +543,9 @@ ADDED from [com.google.firebase:firebase-common:10.2.4] /home/murshid/.android/b
 		ADDED from [com.google.firebase:firebase-common:10.2.4] /home/murshid/.android/build-cache/0d8fcdac69caf4ef184176c9201978cbcc2ce324/output/AndroidManifest.xml:6:169-192
 	android:name
 		ADDED from [com.google.firebase:firebase-common:10.2.4] /home/murshid/.android/build-cache/0d8fcdac69caf4ef184176c9201978cbcc2ce324/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/murshid/.android/build-cache/e34a5e236b53ba3fbdc1b9d0ba8655c79c8fe09d/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/murshid/.android/build-cache/e34a5e236b53ba3fbdc1b9d0ba8655c79c8fe09d/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /home/murshid/.android/build-cache/e34a5e236b53ba3fbdc1b9d0ba8655c79c8fe09d/output/AndroidManifest.xml:20:20-65

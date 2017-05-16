@@ -1,11 +1,167 @@
 [
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_notification.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_notification.png"
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_firmware.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_firmware.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_watchapp.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_watchapp.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_device_lovetoy_disabled.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_device_lovetoy_disabled.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_systemapp.png",
         "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_systemapp.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_notification_low_battery.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_notification_low_battery.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_information_outline_grey600_24dp.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_information_outline_grey600_24dp.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_device_miband_disabled.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_device_miband_disabled.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_notification.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_focused_holo.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_activitytracker.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_activitytracker.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_device_miband.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_device_miband.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_watchface.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_watchface.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_languagepack.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_languagepack.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_pressed_holo_light.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_device_default_disabled.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_device_default_disabled.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_notification_disconnected.png",
+        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_notification_disconnected.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
@@ -16,63 +172,59 @@
         "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_device_pebble.png"
     },
     {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_device_lovetoy.png",
         "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_device_lovetoy.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/information_outline.png",
         "source": "/home/murshid/Documents/VimoHealth/app/build/generated/res/pngs/debug/drawable-xxhdpi/information_outline.png"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_firmware.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_firmware.png"
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_activitytracker.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_activitytracker.png"
-    },
-    {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_watchapp.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_watchapp.png"
-    },
-    {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_watchface.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_watchface.png"
-    },
-    {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_device_miband.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_device_miband.png"
-    },
-    {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_languagepack.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_languagepack.png"
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_longpressed_holo.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_device_pebble_disabled.png",
         "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_device_pebble_disabled.png"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_device_lovetoy_disabled.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_device_lovetoy_disabled.png"
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_notification_low_battery.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_notification_low_battery.png"
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_device_default_disabled.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_device_default_disabled.png"
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_notification_disconnected.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_notification_disconnected.png"
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_information_outline_grey600_24dp.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_information_outline_grey600_24dp.png"
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_device_miband_disabled.png",
-        "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-xxhdpi/ic_device_miband_disabled.png"
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
     }
 ]

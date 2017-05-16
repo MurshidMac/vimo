@@ -1,4 +1,4 @@
-#Mon May 15 13:14:07 IST 2017
+#Tue May 16 13:59:11 IST 2017
 file.9=/home/murshid/Documents/VimoHealth/app/build/intermediates/transforms/dex/debug/folders/1000/10/durationformatter-0.1.1_162c425be714a0ed8fe262ef77cba7437812ee08/classes.dex
 base.10=/home/murshid/Documents/VimoHealth/app/build/intermediates/transforms/dex/debug/folders/1000/10/logback-android-core-1.1.1-4_2d561da85b15e2222c1bf428718d177f0639d4b3
 file.8=/home/murshid/Documents/VimoHealth/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_241419234f8371bf41e10eaad17b8c40a1cf1209/classes.dex
