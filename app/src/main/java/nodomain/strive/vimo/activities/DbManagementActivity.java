@@ -6,19 +6,27 @@ import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.IntentFilter;
 import android.database.sqlite.SQLiteOpenHelper;
+import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.v4.app.NavUtils;
+import android.util.JsonReader;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.MutableData;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.StorageReference;
+import com.google.firebase.storage.UploadTask;
 
+import org.json.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -26,12 +34,16 @@ import java.io.File;
 import java.util.Collections;
 import java.util.List;
 
+import de.greenrobot.dao.internal.DaoConfig;
 import nodomain.strive.vimo.GBApplication;
 
 import nodomain.strive.vimo.adapter.GBDeviceAdapter;
 import nodomain.strive.vimo.database.ActivityDatabaseHandler;
 import nodomain.strive.vimo.database.DBHandler;
 import nodomain.strive.vimo.database.DBHelper;
+import nodomain.strive.vimo.entities.CustomActivitySample;
+import nodomain.strive.vimo.entities.MiBandActivitySample;
+import nodomain.strive.vimo.entities.MiBandActivitySampleDao;
 import nodomain.strive.vimo.impl.GBDevice;
 import nodomain.strive.vimo.util.FileUtils;
 import nodomain.strive.vimo.util.GB;
@@ -79,9 +91,7 @@ public class DbManagementActivity extends GBActivity {
         cloudPushButton=(Button) findViewById(R.id.senditToCloud);      // setting the button
         cloudPushButton.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View v) {
-                cloudDB();
-            }
+            public void onClick(View v) { cloudDB(); }
         });       // setting it up during cloudPush
 
 //        cloudPushButton.setOnClickListener(new View.OnClickListener() {
@@ -145,6 +155,9 @@ public class DbManagementActivity extends GBActivity {
             DBHelper helper = new DBHelper(this);
             File dir = FileUtils.getExternalFilesDir();
             File destFile = helper.exportDB(dbHandler, dir);
+
+
+
             GB.toast(this, getString(R.string.dbmanagementactivity_exported_to, destFile.getAbsolutePath()), Toast.LENGTH_LONG, GB.INFO);
         } catch (Exception ex) {
             GB.toast(this, getString(R.string.dbmanagementactivity_error_exporting_db, ex.getMessage()), Toast.LENGTH_LONG, GB.ERROR, ex);
@@ -180,22 +193,45 @@ public class DbManagementActivity extends GBActivity {
                 .show();
     }
 
-    // this is for cloud pushing for the Fire base
-    @SuppressLint("StringFormatInvalid")
+    FirebaseDatabase database= FirebaseDatabase.getInstance();
+    DatabaseReference reference= database.getReference();
+
+        // this is for cloud pushing for the Fire base
+    @SuppressLint("StringFormatInvalid")        // this is the cloud Strive Override Value
     private void cloudDB(){
         // I have to send the data to the android firebase database from here while clicking database from here
-        //
         try (DBHandler dbHandler = GBApplication.acquireDB()) {
             DBHelper helper = new DBHelper(this);
             File dir = FileUtils.getExternalFilesDir();
-            File destFile = helper.exportDB(dbHandler, dir);        // Here we are getting the final File
-            FirebaseDatabase database = FirebaseDatabase.getInstance();
-            DatabaseReference myRef = database.getReference("message");
-            DatabaseReference data= database.getReference("Blobs");
+            File destFile = helper.exportDB(dbHandler, dir);
 
-            myRef.setValue("Initialized the File, Al Handullilah");
-            data.setValue(destFile);                // I am passing the GreenDao Object to the Cloud
-            GB.toast(this, getString(cloud_push_tothis, destFile.getAbsolutePath()), Toast.LENGTH_LONG, GB.INFO);
+            MiBandActivitySample activitySample= new MiBandActivitySample();    // this for the Special Devices
+
+            reference.setValue(activitySample.getSteps());
+            reference.setValue("24");
+            reference.setValue(activitySample.getUser());
+            reference.setValue("activity sample "+activitySample.getSteps());
+
+            /*
+            FirebaseStorage storage = FirebaseStorage.getInstance("gs://vimo-strive.appspot.com");    // create a storage in the database
+            StorageReference storageReference= storage.getReference();  // gets the reference to the storage
+            Uri dil= Uri.fromFile(destFile);
+            StorageReference dbFile= storageReference.child("Data/"+destFile);
+            UploadTask uploadTask= dbFile.putFile(dil);
+            uploadTask.addOnFailureListener(new OnFailureListener() {
+                @Override
+                public void onFailure(@NonNull Exception e) {
+                  // handles when theres an error
+                }
+            }).addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
+                @Override
+
+                public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {
+                    @SuppressWarnings("VisibleForTests")Uri downLoadUrl= taskSnapshot.getDownloadUrl();
+                }
+            });
+            */
+
         } catch (Exception ex) {
             GB.toast(this, getString(R.string.cloud_push_error, ex.getMessage()), Toast.LENGTH_LONG, GB.ERROR, ex);
         }

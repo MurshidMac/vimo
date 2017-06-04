@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png",
-        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_device_miband.png",
         "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-mdpi/ic_device_miband.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-mdpi/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_device_miband_disabled.png",
@@ -16,12 +16,12 @@
         "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-mdpi/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_list_longpressed_holo.9.png",
-        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-mdpi/abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_firmware.png",
         "source": "/home/murshid/Documents/VimoHealth/app/src/main/res/drawable-mdpi/ic_firmware.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_list_longpressed_holo.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-mdpi/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_btn_switch_to_on_mtrl_00001.9.png",

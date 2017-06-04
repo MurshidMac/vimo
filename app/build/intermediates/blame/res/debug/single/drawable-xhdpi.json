@@ -12,12 +12,12 @@
         "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png",
-        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png",
         "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/murshid/.android/build-cache/6feb098306dbc3f176bfd0d892b7148fb05ed2ce/output/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_information_outline_grey600_24dp.png",

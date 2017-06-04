@@ -29,8 +29,9 @@ public class App {
     private static final String TIMESTAMP_FROM = "timestampFrom";
     private static final String TIMESTAMP_TO = "timestampTo";
 
+
     public static void main(String[] args) throws Exception {
-        Schema schema = new Schema(5, MAIN_PACKAGE + ".entities");  // modified the package to five tables
+        Schema schema = new Schema(15, MAIN_PACKAGE + ".entities");  // modified the package to five tables
 
         // Using the GreenDao SQLITE DB for DBCreation
         Entity userAttributes = addUserAttributes(schema);      // creating the scema
@@ -48,12 +49,6 @@ public class App {
 
         addMiBandActivitySample(schema, user, device);
         addCustomDeviceSample(schema, user, device);
-        //addPebbleHealthActivitySample(schema, user, device);
-        //addPebbleHealthActivityKindOverlay(schema, user, device);
-        //addPebbleMisfitActivitySample(schema, user, device);
-        //addPebbleMorpheuzActivitySample(schema, user, device);
-        //addHPlusHealthActivityKindOverlay(schema, user, device);
-        //addHPlusHealthActivitySample(schema, user, device);
 
         new DaoGenerator().generateAll(schema, "app/src/main/java");
     }
@@ -286,4 +281,12 @@ public class App {
         entity.addImport("de.greenrobot.dao.AbstractDao");
         return entity;
     }
+
+    //addPebbleHealthActivitySample(schema, user, device);
+    //addPebbleHealthActivityKindOverlay(schema, user, device);
+    //addPebbleMisfitActivitySample(schema, user, device);
+    //addPebbleMorpheuzActivitySample(schema, user, device);
+    //addHPlusHealthActivityKindOverlay(schema, user, device);
+    //addHPlusHealthActivitySample(schema, user, device);
+
 }

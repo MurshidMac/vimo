@@ -31,7 +31,7 @@ public class SleepAlarmWidget extends AppWidgetProvider {
      * This is our dedicated action to detect when the widget has been clicked.
      */
     public static final String ACTION =
-            "nodomain.freeyourgadget.gadgetbridge.SLEEP_ALARM_WIDGET_CLICK";
+            "nodomain.freeyourgadget.vimo.SLEEP_ALARM_WIDGET_CLICK";
 
     static void updateAppWidget(Context context, AppWidgetManager appWidgetManager,
                                 int appWidgetId) {

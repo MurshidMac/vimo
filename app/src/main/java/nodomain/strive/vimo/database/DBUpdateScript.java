@@ -11,7 +11,6 @@ import android.database.sqlite.SQLiteDatabase;
  * Implementations must have a public, no-arg constructor.
  */
 public interface DBUpdateScript {
-
     void upgradeSchema(SQLiteDatabase database);
     void downgradeSchema(SQLiteDatabase database);
 }

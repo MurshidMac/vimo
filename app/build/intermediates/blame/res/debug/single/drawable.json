@@ -8,12 +8,12 @@
         "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
-        "source": "/home/murshid/.android/build-cache/84ffdbee4ab0c1d6a241d0709d64e4c4ef248057/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
-    },
-    {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
         "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/murshid/.android/build-cache/84ffdbee4ab0c1d6a241d0709d64e4c4ef248057/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
@@ -56,12 +56,12 @@
         "source": "/home/murshid/.android/build-cache/ca98da323d21c3fd1da20dd6458ce74ec7bc00b9/output/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/home/murshid/.android/build-cache/ca98da323d21c3fd1da20dd6458ce74ec7bc00b9/output/res/drawable/abc_ratingbar_material.xml"
-    },
-    {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/home/murshid/.android/build-cache/4ac79483b64d96eb21a64a7f5d1c9e6dff83dc15/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/home/murshid/.android/build-cache/ca98da323d21c3fd1da20dd6458ce74ec7bc00b9/output/res/drawable/abc_ratingbar_material.xml"
     },
     {
         "merged": "/home/murshid/Documents/VimoHealth/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",

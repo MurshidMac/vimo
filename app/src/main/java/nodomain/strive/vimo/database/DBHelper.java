@@ -222,6 +222,15 @@ public class DBHelper {
 
         return user;
     }
+    // modified it to the cloud access part
+
+    private static void UploadCloud(ActivityUser user, DaoSession session){
+        User us = new User();
+        ensureUserAttributes(us, user, session );
+        // DB account
+
+
+    }
 
     private static void ensureUserUpToDate(User user, ActivityUser prefsUser, DaoSession session) {
         if (!isUserUpToDate(user, prefsUser)) {
@@ -237,6 +246,7 @@ public class DBHelper {
         }
     }
 
+
     public static boolean isUserUpToDate(User user, ActivityUser prefsUser) {
         if (!Objects.equals(user.getName(), prefsUser.getName())) {
             return false;
@@ -250,6 +260,7 @@ public class DBHelper {
 
         return true;
     }
+
 
     private static void ensureUserAttributes(User user, ActivityUser prefsUser, DaoSession session) {
         List<UserAttributes> userAttributes = user.getUserAttributesList();

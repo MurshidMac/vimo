@@ -212,6 +212,7 @@ public class GBApplication extends Application {
      * @throws GBException
      * @see #releaseDB()
      */
+
     public static DBHandler acquireDB() throws GBException {
         try {
             if (dbLock.tryLock(30, TimeUnit.SECONDS)) {
