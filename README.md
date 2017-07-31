@@ -1,7 +1,7 @@
 Vimo- Strive Health (Android App)
 ==========================
 
-Vimo-Health is an Android application which will allows user to use any smart Iot (DIY- Build by team-Vimo) or Vendor based Activity trackers like (Mi Band) to play a innovative and enjoyable health game that motivates user to build his/ her daily health activity continously by building charactor based on their game.
+Vimo-Health is an Android application which will allows user to use any smart Iot (DIY- Build by team-Vimo) or Vendor based Activity trackers like (Mi Band) to play a innovative and enjoyable health game that motivates user to build his/ her daily health activity continously by building charactor based on their game. Thanks to Gadgetbridge for original source code support.
 
 Below Libraries are used for BT and Documentation
 [![Build](https://travis-ci.org/Freeyourgadget/Gadgetbridge.svg?branch=master)](https://travis-ci.org/Freeyourgadget/Gadgetbridge)
