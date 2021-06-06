@@ -8,7 +8,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
     android:animateLayoutChanges="true"
-    tools:context="nodomain.freeyourgadget.vimo.activities.FwAppInstallerActivity">
+    tools:context="vimo.activities.FwAppInstallerActivity">
 
     <ListView
         android:id="@+id/itemListView"

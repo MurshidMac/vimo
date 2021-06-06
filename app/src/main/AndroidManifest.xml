@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="nodomain.freeyourgadget.gadgetbridge">
+    package="com.vimo">
 
     <!--
         Comment in for testing Pebble Emulator
@@ -18,6 +18,7 @@
     <uses-permission android:name="com.fsck.k9.permission.READ_MESSAGES" />
     <uses-permission android:name="android.permission.READ_CALENDAR" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <uses-feature
         android:name="android.hardware.bluetooth"
@@ -30,14 +31,14 @@
         android:required="false" />
 
     <application
-        android:name="nodomain.freeyourgadget.vimo.GBApplication"
+        android:name="vimo.GBApplication"
         android:allowBackup="false"
         android:fullBackupContent="false"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/GadgetbridgeTheme">
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.ControlCenter"
+            android:name="vimo.activities.ControlCenter"
             android:label="@string/title_activity_controlcenter">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -46,26 +47,26 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.SettingsActivity"
+            android:name="vimo.activities.SettingsActivity"
             android:label="@string/title_activity_settings"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.ControlCenter" />
+            android:parentActivityName="vimo.activities.ControlCenter" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.devices.miband.MiBandPreferencesActivity"
+            android:name="vimo.devices.miband.MiBandPreferencesActivity"
             android:label="@string/preferences_miband_settings"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.SettingsActivity" />
+            android:parentActivityName="vimo.activities.SettingsActivity" />
         <activity
             android:launchMode="singleTop"
-            android:name="nodomain.freeyourgadget.vimo.activities.appmanager.AppManagerActivity"
+            android:name="vimo.activities.appmanager.AppManagerActivity"
             android:label="@string/title_activity_appmanager"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.ControlCenter" />
+            android:parentActivityName="vimo.activities.ControlCenter" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.AppBlacklistActivity"
+            android:name="vimo.activities.AppBlacklistActivity"
             android:label="@string/title_activity_appblacklist"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.SettingsActivity" />
+            android:parentActivityName="vimo.activities.SettingsActivity" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.FwAppInstallerActivity"
+            android:name="vimo.activities.FwAppInstallerActivity"
             android:label="@string/title_activity_fw_app_insaller"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.ControlCenter">
+            android:parentActivityName="vimo.activities.ControlCenter">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
 
@@ -203,45 +204,45 @@
         </activity>
 
         <service
-            android:name="nodomain.freeyourgadget.vimo.externalevents.NotificationListener"
+            android:name="vimo.externalevents.NotificationListener"
             android:label="@string/app_name"
             android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
             <intent-filter>
                 <action android:name="android.service.notification.NotificationListenerService" />
             </intent-filter>
         </service>
-        <service android:name="nodomain.freeyourgadget.vimo.service.DeviceCommunicationService" />
+        <service android:name="vimo.service.DeviceCommunicationService" />
 
         <receiver
-            android:name="nodomain.freeyourgadget.vimo.externalevents.WeatherNotificationReceiver"
+            android:name="vimo.externalevents.WeatherNotificationReceiver"
             android:enabled="true">
             <intent-filter>
                 <action android:name="ru.gelin.android.weather.notification.ACTION_WEATHER_UPDATE_2" />
             </intent-filter>
         </receiver>
 
-        <activity android:name="nodomain.freeyourgadget.vimo.externalevents.WeatherNotificationConfig">
+        <activity android:name="vimo.externalevents.WeatherNotificationConfig">
             <intent-filter>
                 <action android:name="ru.gelin.android.weather.notification.ACTION_WEATHER_SKIN_PREFERENCES"/>
             </intent-filter>
         </activity>
 
         <receiver
-            android:name="nodomain.freeyourgadget.vimo.externalevents.BluetoothStateChangeReceiver"
+            android:name="vimo.externalevents.BluetoothStateChangeReceiver"
             android:exported="false">
             <intent-filter>
                 <action android:name="android.bluetooth.adapter.action.STATE_CHANGED" />
             </intent-filter>
         </receiver>
         <receiver
-            android:name="nodomain.freeyourgadget.vimo.service.receivers.GBMusicControlReceiver"
+            android:name="vimo.service.receivers.GBMusicControlReceiver"
             android:exported="false">
             <intent-filter>
                 <action android:name="nodomain.freeyourgadget.gadgetbridge.musiccontrol" />
             </intent-filter>
         </receiver>
         <receiver
-            android:name="nodomain.freeyourgadget.vimo.service.receivers.GBCallControlReceiver"
+            android:name="vimo.service.receivers.GBCallControlReceiver"
             android:exported="false">
             <intent-filter>
                 <action android:name="nodomain.freeyourgadget.gadgetbridge.callcontrol" />
@@ -253,58 +254,58 @@
             dialog when changing orientation
          -->
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.DebugActivity"
+            android:name="vimo.activities.DebugActivity"
             android:label="@string/title_activity_debug"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.ControlCenter"
+            android:parentActivityName="vimo.activities.ControlCenter"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.DbManagementActivity"
+            android:name="vimo.activities.DbManagementActivity"
             android:label="@string/title_activity_db_management"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.ControlCenter"
+            android:parentActivityName="vimo.activities.ControlCenter"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.OnboardingActivity"
+            android:name="vimo.activities.OnboardingActivity"
             android:label="@string/title_activity_onboarding"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.ControlCenter"
+            android:parentActivityName="vimo.activities.ControlCenter"
             android:screenOrientation="portrait" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.DiscoveryActivity"
+            android:name="vimo.activities.DiscoveryActivity"
             android:label="@string/title_activity_discovery"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.ControlCenter" />
+            android:parentActivityName="vimo.activities.ControlCenter" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.AndroidPairingActivity"
+            android:name="vimo.activities.AndroidPairingActivity"
             android:label="@string/title_activity_android_pairing" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.devices.miband.MiBandPairingActivity"
+            android:name="vimo.devices.miband.MiBandPairingActivity"
             android:label="@string/title_activity_mi_band_pairing" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.devices.pebble.PebblePairingActivity"
+            android:name="vimo.devices.pebble.PebblePairingActivity"
             android:label="@string/title_activity_pebble_pairing" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.charts.ChartsActivity"
+            android:name="vimo.activities.charts.ChartsActivity"
             android:label="@string/title_activity_charts"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.ControlCenter" />
+            android:parentActivityName="vimo.activities.ControlCenter" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.ConfigureAlarms"
+            android:name="vimo.activities.ConfigureAlarms"
             android:label="@string/title_activity_set_alarm"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.SettingsActivity" />
+            android:parentActivityName="vimo.activities.SettingsActivity" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.AlarmDetails"
+            android:name="vimo.activities.AlarmDetails"
             android:label="@string/title_activity_alarm_details"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.ConfigureAlarms" />
+            android:parentActivityName="vimo.activities.ConfigureAlarms" />
         <activity
-            android:name="nodomain.freeyourgadget.vimo.activities.VibrationActivity"
+            android:name="vimo.activities.VibrationActivity"
             android:label="@string/title_activity_vibration"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.ControlCenter" />
+            android:parentActivityName="vimo.activities.ControlCenter" />
 
         <provider
-            android:name="nodomain.freeyourgadget.vimo.contentprovider.PebbleContentProvider"
+            android:name="vimo.contentprovider.PebbleContentProvider"
             android:authorities="com.getpebble.android.provider"
             android:exported="true" />
 
-        <receiver android:name="nodomain.freeyourgadget.vimo.SleepAlarmWidget">
+        <receiver android:name="vimo.SleepAlarmWidget">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
                 <action android:name="nodomain.freeyourgadget.gadgetbridge.SLEEP_ALARM_WIDGET_CLICK" />
@@ -319,12 +320,12 @@
             android:launchMode="singleTask"
             android:allowTaskReparenting="true"
             android:clearTaskOnLaunch="true"
-            android:name="nodomain.freeyourgadget.vimo.activities.ExternalPebbleJSActivity"
+            android:name="vimo.activities.ExternalPebbleJSActivity"
             android:label="@string/app_configure"
-            android:parentActivityName="nodomain.freeyourgadget.vimo.activities.appmanager.AppManagerActivity">
+            android:parentActivityName="vimo.activities.appmanager.AppManagerActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="nodomain.freeyourgadget.vimo.activities.ControlCenter" />
+                android:value="vimo.activities.ControlCenter" />
             <intent-filter>
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.DEFAULT"/>

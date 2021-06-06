@@ -2,7 +2,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="nodomain.freeyourgadget.vimo.activities.appmanager.ABAppManager">
+    tools:context="vimo.activities.appmanager.ABAppManager">
         <com.woxthebox.draglistview.DragListView
             android:id="@+id/appListView"
             android:layout_width="match_parent"

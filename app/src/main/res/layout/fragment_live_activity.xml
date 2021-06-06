@@ -9,19 +9,19 @@
         android:layout_height="fill_parent"
         android:layout_weight="20">
 
-        <nodomain.freeyourgadget.vimo.activities.charts.CustomBarChart
+        <vimo.activities.charts.CustomBarChart
             android:id="@+id/livechart_steps_per_minute_current"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:layout_weight="20">
-        </nodomain.freeyourgadget.vimo.activities.charts.CustomBarChart>
+        </vimo.activities.charts.CustomBarChart>
 
-        <nodomain.freeyourgadget.vimo.activities.charts.CustomBarChart
+        <vimo.activities.charts.CustomBarChart
             android:id="@+id/livechart_steps_total"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:layout_weight="20">
-        </nodomain.freeyourgadget.vimo.activities.charts.CustomBarChart>
+        </vimo.activities.charts.CustomBarChart>
 
         <!--
         <com.github.mikephil.charting.charts.PieChart
